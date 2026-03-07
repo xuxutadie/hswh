@@ -31,13 +31,13 @@ function App() {
   return (
     <div className="min-h-screen bg-stone-50 text-stone-900 font-sans">
       <header className="bg-red-700 text-white p-4 shadow-md">
-        <div className="max-w-4xl mx-auto flex items-center justify-between relative">
-          <img src="/1LOGO.png" alt="LOGO" className="h-8 w-auto object-contain" />
-          <h1 className="text-xl font-bold tracking-wide absolute left-1/2 -translate-x-1/2">红色文化传承答题训练系统</h1>
+        <div className="max-w-4xl mx-auto flex items-center justify-between gap-2">
+          <img src="/1LOGO.png" alt="LOGO" className="h-8 w-auto object-contain shrink-0" />
+          <h1 className="text-lg sm:text-xl font-bold tracking-wide text-center flex-1 truncate">红色文化传承答题训练系统</h1>
           {selectedGrade && currentScreen === 'quiz' && (
             <button 
               onClick={handleRestart}
-              className="text-sm bg-red-800 hover:bg-red-900 px-3 py-1 rounded-md transition-colors"
+              className="text-sm bg-red-800 hover:bg-red-900 px-3 py-1 rounded-md transition-colors shrink-0"
             >
               返回首页
             </button>
