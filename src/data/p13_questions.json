@@ -1,0 +1,4354 @@
+[
+  {
+    "id": "primary_1_3_1",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红领巾代表什么精神的传承？",
+    "options": {
+      "A": "自私自利",
+      "B": "团结友爱",
+      "C": "红色革命",
+      "D": "贪玩好动"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_2",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我国国庆节是每年的哪一天？",
+    "options": {
+      "A": "1 月 1 日",
+      "B": "5 月 1 日",
+      "C": "10 月 1 日",
+      "D": "12 月 25 日"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_3",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我国国歌的名字是？",
+    "options": {
+      "A": "《歌唱祖国》",
+      "B": "《义勇军进行曲》",
+      "C": "《没有共产党就没有新中国》",
+      "D": "《东方红》"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_4",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色精神的核心不包括以下哪项？",
+    "options": {
+      "A": "勇敢",
+      "B": "懦弱",
+      "C": "坚强",
+      "D": "爱国"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_5",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们要向革命先辈学习什么品质？",
+    "options": {
+      "A": "懒惰",
+      "B": "勇敢无畏",
+      "C": "娇气",
+      "D": "胆小怕事"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_6",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "少先队队员在队旗下要宣誓什么？",
+    "options": {
+      "A": "好好学习，天天向上",
+      "B": "热爱祖国，热爱人民",
+      "C": "只想玩耍，不想学习",
+      "D": "自私自利，不顾他人"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_7",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色文化中，“红色” 象征着什么？",
+    "options": {
+      "A": "悲伤",
+      "B": "革命与热血",
+      "C": "平静",
+      "D": "寒冷"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_8",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "爱国精神要求我们要爱护什么？",
+    "options": {
+      "A": "外国的东西",
+      "B": "自己国家的山河与人民",
+      "C": "自己的玩具",
+      "D": "自己家里的财物"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_9",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "国庆节时，我们会举行什么活动庆祝？",
+    "options": {
+      "A": "闭门不出",
+      "B": "升国旗、唱国歌",
+      "C": "赛龙舟",
+      "D": "爬山登高"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_10",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色歌曲的特点是？",
+    "options": {
+      "A": "悲伤低落",
+      "B": "积极向上，歌颂祖国",
+      "C": "曲调怪异",
+      "D": "歌词消极"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_11",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "革命先辈为我们带来了什么？",
+    "options": {
+      "A": "苦难",
+      "B": "幸福生活",
+      "C": "饥饿",
+      "D": "贫穷"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_12",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们的国旗上有几颗五角星？",
+    "options": {
+      "A": "3 颗",
+      "B": "4 颗",
+      "C": "5 颗",
+      "D": "6 颗"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_13",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们要传承的红色品质不包括？",
+    "options": {
+      "A": "诚实",
+      "B": "勇敢",
+      "C": "撒谎",
+      "D": "坚强"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_14",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色故事主要讲述的是？",
+    "options": {
+      "A": "童话故事",
+      "B": "革命先辈的奋斗经历",
+      "C": "科幻故事",
+      "D": "动物故事"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_15",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "对待革命烈士纪念碑，我们应该？",
+    "options": {
+      "A": "随意攀爬",
+      "B": "肃立致敬",
+      "C": "涂鸦乱画",
+      "D": "乱扔垃圾"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_16",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "国歌的作曲者是？",
+    "options": {
+      "A": "田汉",
+      "B": "聂耳",
+      "C": "冼星海",
+      "D": "光未然"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_17",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色精神鼓励我们在困难面前要？",
+    "options": {
+      "A": "退缩",
+      "B": "勇敢面对",
+      "C": "哭泣",
+      "D": "逃避"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_18",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我国的国徽上有什么元素？",
+    "options": {
+      "A": "熊猫",
+      "B": "五星照耀下的天安门、谷穗和齿轮",
+      "C": "老虎",
+      "D": "兔子"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_19",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们为什么要学习红色文化？",
+    "options": {
+      "A": "因为好玩",
+      "B": "传承爱国精神，铭记历史",
+      "C": "应付考试",
+      "D": "家长要求"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_20",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "革命先辈打仗是为了什么？",
+    "options": {
+      "A": "争夺地盘",
+      "B": "让人民过上好日子",
+      "C": "欺负别人",
+      "D": "贪图钱财"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_21",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "国旗升起时，我们应该？",
+    "options": {
+      "A": "打闹喧哗",
+      "B": "立正站好，行注目礼",
+      "C": "随意走动",
+      "D": "低头玩手机"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_22",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色精神中的 “团结” 指的是？",
+    "options": {
+      "A": "只顾自己",
+      "B": "大家齐心协力",
+      "C": "互相争吵",
+      "D": "互相拆台"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_23",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "少先队的队歌名字是？",
+    "options": {
+      "A": "《我们是共产主义接班人》",
+      "B": "《让我们荡起双桨》",
+      "C": "《虫儿飞》",
+      "D": "《小星星》"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_24",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "学习红色故事能让我们明白？",
+    "options": {
+      "A": "幸福生活来之不易",
+      "B": "不用努力就能成功",
+      "C": "可以随意浪费",
+      "D": "欺负别人是对的"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_25",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "革命烈士为国家献出了什么？",
+    "options": {
+      "A": "钱财",
+      "B": "生命",
+      "C": "玩具",
+      "D": "食物"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_26",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "国旗上的大五角星代表什么？",
+    "options": {
+      "A": "农民",
+      "B": "中国共产党",
+      "C": "工人",
+      "D": "学生"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_27",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色文化不包括以下哪项？",
+    "options": {
+      "A": "革命故事",
+      "B": "古代神话",
+      "C": "英雄事迹",
+      "D": "红色歌曲"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_28",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们在唱国歌时应该？",
+    "options": {
+      "A": "小声说话",
+      "B": "大声、严肃地唱",
+      "C": "嬉笑打闹",
+      "D": "睡觉"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_29",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "少先队队员的标志是？",
+    "options": {
+      "A": "校徽",
+      "B": "红领巾",
+      "C": "胸针",
+      "D": "徽章"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_30",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "爱国就要做到？",
+    "options": {
+      "A": "不爱护公物",
+      "B": "尊重国家的历史和文化",
+      "C": "破坏环境",
+      "D": "不遵守规则"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_31",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色精神是中华民族的什么？",
+    "options": {
+      "A": "坏习惯",
+      "B": "精神财富",
+      "C": "负担",
+      "D": "麻烦事"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_32",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们应该怎样向革命先辈致敬？",
+    "options": {
+      "A": "忘记他们",
+      "B": "好好学习，报效祖国",
+      "C": "调皮捣蛋",
+      "D": "浪费资源"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_33",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "革命先辈的奋斗精神值得我们？",
+    "options": {
+      "A": "嘲笑",
+      "B": "学习和传承",
+      "C": "忽视",
+      "D": "忘记"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_34",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们学习红色文化的途径不包括？",
+    "options": {
+      "A": "听红色故事",
+      "B": "看科幻动画片",
+      "C": "读红色书籍",
+      "D": "参观革命纪念馆"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_35",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "少先队的口号不包括？",
+    "options": {
+      "A": "准备着，为共产主义事业而奋斗",
+      "B": "好好学习，天天向上",
+      "C": "只想玩耍，不想学习",
+      "D": "热爱祖国，热爱人民"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_36",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色精神中的 “勇敢” 指的是？",
+    "options": {
+      "A": "鲁莽行事",
+      "B": "面对困难不退缩",
+      "C": "欺负弱小",
+      "D": "调皮捣蛋"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_37",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们要铭记革命烈士的什么？",
+    "options": {
+      "A": "缺点",
+      "B": "功绩和牺牲",
+      "C": "错误",
+      "D": "失败"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_38",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "国旗在什么场合会升起？",
+    "options": {
+      "A": "私人聚会",
+      "B": "学校升旗仪式、国庆节等",
+      "C": "朋友生日会",
+      "D": "家庭聚餐"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_39",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "少先队队员应该遵守的纪律是？",
+    "options": {
+      "A": "上课说话",
+      "B": "遵守校规校纪，团结同学",
+      "C": "欺负同学",
+      "D": "破坏公物"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_40",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "革命故事中的主人公大多具有什么品质？",
+    "options": {
+      "A": "懦弱",
+      "B": "勇敢、坚强、爱国",
+      "C": "自私",
+      "D": "懒惰"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_41",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色精神不会让我们变得？",
+    "options": {
+      "A": "坚强",
+      "B": "勇敢",
+      "C": "自私",
+      "D": "爱国"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_42",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们在参观革命纪念馆时应该？",
+    "options": {
+      "A": "大声喧哗",
+      "B": "保持安静，认真倾听",
+      "C": "乱跑乱摸",
+      "D": "乱扔垃圾"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_43",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "少先队队员在参加活动时应该？",
+    "options": {
+      "A": "随意缺席",
+      "B": "积极参与，遵守纪律",
+      "C": "打闹玩耍",
+      "D": "睡觉偷懒"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_44",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "革命先辈在艰苦环境中依然坚持奋斗，是因为他们有？",
+    "options": {
+      "A": "好吃的食物",
+      "B": "坚定的理想信念",
+      "C": "好玩的玩具",
+      "D": "舒适的住所"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_45",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "国歌的作词者是？",
+    "options": {
+      "A": "聂耳",
+      "B": "田汉",
+      "C": "冼星海",
+      "D": "光未然"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_46",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "我们应该怎样传承红色精神？",
+    "options": {
+      "A": "只说不做",
+      "B": "从身边小事做起，比如爱护公物、帮助他人",
+      "C": "调皮捣蛋",
+      "D": "浪费资源"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_47",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "红色精神中的 “坚强” 指的是？",
+    "options": {
+      "A": "遇到困难就哭",
+      "B": "不怕挫折，坚持不懈",
+      "C": "随意放弃",
+      "D": "娇气任性"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_48",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "国旗的正确挂法是？",
+    "options": {
+      "A": "倒挂",
+      "B": "正挂，五角星在左上方",
+      "C": "斜挂",
+      "D": "随便挂"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_49",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "学习红色文化能让我们更加？",
+    "options": {
+      "A": "不爱祖国",
+      "B": "热爱祖国和人民",
+      "C": "自私自利",
+      "D": "懒惰娇气"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_50",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "烈士纪念日是每年的哪一天？",
+    "options": {
+      "A": "9 月 30 日",
+      "B": "5 月 1 日",
+      "C": "10 月 1 日",
+      "D": "7 月 1 日"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_51",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "黄继光在战斗中做出了什么贡献？",
+    "options": {
+      "A": "帮助老人过马路",
+      "B": "用身体堵住敌人枪眼",
+      "C": "写红色故事",
+      "D": "唱歌鼓舞士气"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_52",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "小兵张嘎的故事发生在什么时期？",
+    "options": {
+      "A": "抗日战争时期",
+      "B": "解放战争时期",
+      "C": "抗美援朝时期",
+      "D": "改革开放时期"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_53",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "王二小的英雄事迹是？",
+    "options": {
+      "A": "放牛时把敌人引入八路军埋伏圈",
+      "B": "舍身炸碉堡",
+      "C": "堵枪眼",
+      "D": "助人为乐"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_54",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "邱少云在潜伏任务中，为了什么而牺牲？",
+    "options": {
+      "A": "保护战友，严守潜伏纪律",
+      "B": "抢夺敌人武器",
+      "C": "传递情报",
+      "D": "救助伤员"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_55",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "钱学森爷爷主要贡献在什么领域？",
+    "options": {
+      "A": "农业",
+      "B": "航天航空",
+      "C": "教育",
+      "D": "医疗"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_56",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "王二小是哪个地区的少年英雄？",
+    "options": {
+      "A": "河北涞源",
+      "B": "陕西延安",
+      "C": "山东济南",
+      "D": "河南郑州"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_57",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "邱少云在什么战役中牺牲？",
+    "options": {
+      "A": "上甘岭战役",
+      "B": "平津战役",
+      "C": "辽沈战役",
+      "D": "淮海战役"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_58",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "狼牙山五壮士跳崖后，有几人幸存？",
+    "options": {
+      "A": "1 人",
+      "B": "2 人",
+      "C": "3 人",
+      "D": "4 人"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_59",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "钱学森爷爷放弃国外优厚待遇，回到祖国是为了？",
+    "options": {
+      "A": "享受生活",
+      "B": "建设祖国的航天事业",
+      "C": "旅游",
+      "D": "与家人团聚"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_60",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "雷锋叔叔的日记主要记录了什么？",
+    "options": {
+      "A": "调皮捣蛋的事情",
+      "B": "自己的思想和助人为乐的决心",
+      "C": "抱怨生活的事情",
+      "D": "自己遇到的困难"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_61",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "董存瑞牺牲的地点是？",
+    "options": {
+      "A": "隆化",
+      "B": "上甘岭",
+      "C": "狼牙山",
+      "D": "延安"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_62",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "黄继光所在的部队是？",
+    "options": {
+      "A": "八路军",
+      "B": "志愿军",
+      "C": "新四军",
+      "D": "解放军"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_63",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "刘胡兰从事的革命工作是？",
+    "options": {
+      "A": "送信、组织群众",
+      "B": "打仗",
+      "C": "做饭",
+      "D": "教书"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_64",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "小兵张嘎初期加入了什么组织？",
+    "options": {
+      "A": "八路军",
+      "B": "儿童团",
+      "C": "新四军",
+      "D": "志愿军"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_65",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "小英雄雨来为了保护谁而与敌人斗争？",
+    "options": {
+      "A": "自己的家人",
+      "B": "八路军战士",
+      "C": "同学",
+      "D": "邻居"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_66",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "钱学森爷爷被誉为 “中国航天之父” 和什么？",
+    "options": {
+      "A": "中国原子弹之父",
+      "B": "中国导弹之父",
+      "C": "中国氢弹之父",
+      "D": "中国农业之父"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_67",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "雷锋叔叔帮助别人时，心里会感到？",
+    "options": {
+      "A": "难过",
+      "B": "快乐",
+      "C": "无聊",
+      "D": "愤怒"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_68",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "董存瑞炸碉堡的目的是？",
+    "options": {
+      "A": "破坏建筑",
+      "B": "为大部队开辟前进道路",
+      "C": "好玩",
+      "D": "报复敌人"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_69",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "黄继光为什么要堵枪眼？",
+    "options": {
+      "A": "好玩",
+      "B": "为战友冲锋扫清障碍",
+      "C": "不小心",
+      "D": "被迫的"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_70",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "刘胡兰面对敌人的铡刀，没有？",
+    "options": {
+      "A": "害怕",
+      "B": "投降",
+      "C": "勇敢",
+      "D": "坚强"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_71",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "小英雄雨来的故事告诉我们要？",
+    "options": {
+      "A": "害怕敌人",
+      "B": "热爱祖国，勇敢斗争",
+      "C": "逃跑躲避",
+      "D": "投降敌人"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_72",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "邱少云的英雄事迹体现了什么品质？",
+    "options": {
+      "A": "自私自利",
+      "B": "严守纪律、不怕牺牲",
+      "C": "不守纪律",
+      "D": "胆小懦弱"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_73",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "狼牙山五壮士的英雄行为是为了？",
+    "options": {
+      "A": "自己逃跑",
+      "B": "掩护大部队和群众转移",
+      "C": "抢夺财物",
+      "D": "躲避战斗"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_74",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "钱学森爷爷回国后，主持研制了什么？",
+    "options": {
+      "A": "水稻",
+      "B": "导弹、原子弹",
+      "C": "药品",
+      "D": "汽车"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_75",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "雷锋叔叔的座右铭是？",
+    "options": {
+      "A": "知足常乐",
+      "B": "把有限的生命投入到无限的为人民服务中去",
+      "C": "吃苦耐劳",
+      "D": "好好学习 天天向上"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_76",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "董存瑞牺牲时的口号是？",
+    "options": {
+      "A": "为了新中国，冲啊！",
+      "B": "打倒日本帝国主义！",
+      "C": "中国共产党万岁！",
+      "D": "人民万岁！"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_77",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "黄继光的英雄事迹发生在什么战争中？",
+    "options": {
+      "A": "抗日战争",
+      "B": "抗美援朝战争",
+      "C": "解放战争",
+      "D": "鸦片战争"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_78",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "刘胡兰是哪个省的英雄？",
+    "options": {
+      "A": "山西省",
+      "B": "陕西省",
+      "C": "河北省",
+      "D": "山东省"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_79",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "小兵张嘎的故事发生在哪个省？",
+    "options": {
+      "A": "河北省",
+      "B": "山东省",
+      "C": "河南省",
+      "D": "辽宁省"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_80",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "小英雄雨来生活在什么河边？",
+    "options": {
+      "A": "长江",
+      "B": "还乡河",
+      "C": "黄河",
+      "D": "珠江"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_81",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "王二小是什么人？",
+    "options": {
+      "A": "学生",
+      "B": "放牛娃",
+      "C": "士兵",
+      "D": "农民"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_82",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "邱少云牺牲时，没有做什么？",
+    "options": {
+      "A": "严守纪律",
+      "B": "打滚灭火",
+      "C": "保护战友",
+      "D": "牺牲自己"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_83",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "狼牙山五壮士跳崖的狼牙山位于哪个省？",
+    "options": {
+      "A": "河北省",
+      "B": "山西省",
+      "C": "陕西省",
+      "D": "山东省"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_84",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "董存瑞是哪个时期的英雄？",
+    "options": {
+      "A": "抗日战争时期",
+      "B": "解放战争时期",
+      "C": "抗美援朝时期",
+      "D": "改革开放时期"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_85",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "黄继光的家乡在哪个省？",
+    "options": {
+      "A": "四川省",
+      "B": "湖北省",
+      "C": "湖南省",
+      "D": "广东省"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_86",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "刘胡兰加入了什么组织？",
+    "options": {
+      "A": "共青团",
+      "B": "共产党",
+      "C": "儿童团",
+      "D": "少先队"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_87",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "王二小是被敌人怎样杀害的？",
+    "options": {
+      "A": "刺刀杀死",
+      "B": "铡死",
+      "C": "毒死",
+      "D": "打死"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_88",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "邱少云牺牲时年仅多少岁？",
+    "options": {
+      "A": "20 岁",
+      "B": "26 岁",
+      "C": "30 岁",
+      "D": "35 岁"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_89",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "狼牙山五壮士中，谁是班长？",
+    "options": {
+      "A": "马宝玉",
+      "B": "葛振林",
+      "C": "宋学义",
+      "D": "胡德林"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_90",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "钱学森爷爷回国后，担任过什么职务？",
+    "options": {
+      "A": "总理",
+      "B": "国防科工委副主任",
+      "C": "主席",
+      "D": "部长"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_91",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "雷锋叔叔帮助过的人不包括？",
+    "options": {
+      "A": "老人",
+      "B": "小孩",
+      "C": "孕妇",
+      "D": "坏人"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_92",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "黄继光堵枪眼时，心里想着什么？",
+    "options": {
+      "A": "自己的安危",
+      "B": "战友的安全和战斗的胜利",
+      "C": "家人",
+      "D": "害怕"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_93",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "刘胡兰为什么不向敌人屈服？",
+    "options": {
+      "A": "害怕被批评",
+      "B": "热爱祖国，忠于革命",
+      "C": "想出名",
+      "D": "家人要求"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_94",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "王二小为什么要把敌人引入埋伏圈？",
+    "options": {
+      "A": "好玩",
+      "B": "为了消灭敌人，保护乡亲",
+      "C": "不小心",
+      "D": "被迫的"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_95",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "邱少云的英雄事迹发生在什么年份？",
+    "options": {
+      "A": "1950 年",
+      "B": "1952 年",
+      "C": "1953 年",
+      "D": "1954 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_96",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "钱学森爷爷的主要贡献不包括？",
+    "options": {
+      "A": "研制导弹",
+      "B": "研制原子弹",
+      "C": "研制水稻",
+      "D": "发展航天事业"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_97",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "雷锋叔叔的生日是哪一天？",
+    "options": {
+      "A": "3 月 5 日",
+      "B": "12 月 18 日",
+      "C": "5 月 4 日",
+      "D": "7 月 1 日"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_98",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "黄继光被授予什么荣誉称号？",
+    "options": {
+      "A": "战斗英雄",
+      "B": "特级英雄",
+      "C": "劳动模范",
+      "D": "优秀党员"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_99",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "刘胡兰牺牲的地点是？",
+    "options": {
+      "A": "云周西村",
+      "B": "隆化",
+      "C": "上甘岭",
+      "D": "狼牙山"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_100",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "小兵张嘎的故事是根据什么改编的？",
+    "options": {
+      "A": "真实事件",
+      "B": "童话故事",
+      "C": "科幻故事",
+      "D": "神话故事"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_101",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《闪闪的红星》是一部什么类型的作品？",
+    "options": {
+      "A": "科幻小说",
+      "B": "红色电影 / 小说",
+      "C": "童话故事",
+      "D": "科普读物"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_102",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《没有共产党就没有新中国》是一首什么歌曲？",
+    "options": {
+      "A": "爱情歌曲",
+      "B": "红色歌曲",
+      "C": "摇滚歌曲",
+      "D": "儿歌"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_103",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《地道战》讲述的是哪个时期的故事？",
+    "options": {
+      "A": "抗日战争时期",
+      "B": "解放战争时期",
+      "C": "抗美援朝时期",
+      "D": "改革开放时期"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_104",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小兵张嘎》的原著作者是谁？",
+    "options": {
+      "A": "徐光耀",
+      "B": "老舍",
+      "C": "鲁迅",
+      "D": "巴金"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_105",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红星歌》是哪部电影的插曲？",
+    "options": {
+      "A": "《地道战》",
+      "B": "《闪闪的红星》",
+      "C": "《小兵张嘎》",
+      "D": "《英雄儿女》"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_106",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小英雄雨来》的作者是？",
+    "options": {
+      "A": "管桦",
+      "B": "袁鹰",
+      "C": "老舍",
+      "D": "冰心"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_107",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《东方红》这首歌主要歌颂的是？",
+    "options": {
+      "A": "太阳",
+      "B": "毛主席和中国共产党",
+      "C": "月亮",
+      "D": "星星"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_108",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《英雄儿女》讲述的是哪场战争的故事？",
+    "options": {
+      "A": "抗日战争",
+      "B": "抗美援朝战争",
+      "C": "解放战争",
+      "D": "鸦片战争"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_109",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红色娘子军》是一部什么类型的作品？",
+    "options": {
+      "A": "芭蕾舞剧 / 电影",
+      "B": "京剧",
+      "C": "话剧",
+      "D": "歌剧"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_110",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《闪闪的红星》中的主角叫什么名字？",
+    "options": {
+      "A": "张嘎",
+      "B": "潘冬子",
+      "C": "雨来",
+      "D": "王二小"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_111",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《地道战》中，村民们用地道来做什么？",
+    "options": {
+      "A": "储存粮食",
+      "B": "打击日本鬼子",
+      "C": "睡觉",
+      "D": "玩耍"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_112",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《歌唱祖国》的作曲者是？",
+    "options": {
+      "A": "王莘",
+      "B": "聂耳",
+      "C": "冼星海",
+      "D": "光未然"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_113",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红星歌》的歌词中 “红星闪闪放光彩” 下一句是？",
+    "options": {
+      "A": "红星灿灿暖胸怀",
+      "B": "跟着毛主席跟着党",
+      "C": "党的光辉照万代",
+      "D": "革命代代如潮涌"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_114",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小英雄雨来》中，雨来为了保护什么而与敌人斗争？",
+    "options": {
+      "A": "粮食",
+      "B": "八路军的交通员",
+      "C": "玩具",
+      "D": "书本"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_115",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《英雄儿女》中的主角是谁？",
+    "options": {
+      "A": "王成、王芳",
+      "B": "潘冬子",
+      "C": "张嘎",
+      "D": "雨来"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_116",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红色娘子军》的故事发生在哪个省？",
+    "options": {
+      "A": "海南省",
+      "B": "广东省",
+      "C": "云南省",
+      "D": "广西省"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_117",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《没有共产党就没有新中国》创作于什么时期？",
+    "options": {
+      "A": "抗日战争时期",
+      "B": "解放战争时期",
+      "C": "抗美援朝时期",
+      "D": "改革开放时期"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_118",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《地道战》中，地道的特点不包括？",
+    "options": {
+      "A": "四通八达",
+      "B": "只有一个出口",
+      "C": "设有陷阱",
+      "D": "可以藏身"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_119",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小兵张嘎》中，嘎子最想得到的武器是？",
+    "options": {
+      "A": "手枪",
+      "B": "步枪",
+      "C": "机关枪",
+      "D": "大炮"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_120",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红星歌》是为了歌颂什么？",
+    "options": {
+      "A": "星星",
+      "B": "红军和革命精神",
+      "C": "月亮",
+      "D": "太阳"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_121",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《东方红》的作词者是？",
+    "options": {
+      "A": "李有源",
+      "B": "田汉",
+      "C": "光未然",
+      "D": "曹火星"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_122",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《英雄儿女》中，王成的经典台词是？",
+    "options": {
+      "A": "为了胜利，向我开炮！",
+      "B": "打倒日本帝国主义！",
+      "C": "中国共产党万岁！",
+      "D": "人民万岁！"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_123",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红色娘子军》中的女主角叫什么名字？",
+    "options": {
+      "A": "吴琼花",
+      "B": "王芳",
+      "C": "英子",
+      "D": "乐乐"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_124",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《歌唱祖国》的歌词中，“越过高山，越过平原” 下一句是？",
+    "options": {
+      "A": "跨过奔腾的黄河长江",
+      "B": "宽广美丽的土地",
+      "C": "是我们亲爱的家乡",
+      "D": "英雄的人民站起来了"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_125",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小兵张嘎》中，嘎子是怎样加入八路军的？",
+    "options": {
+      "A": "自己报名",
+      "B": "被八路军发现他的机智勇敢",
+      "C": "家人推荐",
+      "D": "考试通过"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_126",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红星歌》的作曲者是？",
+    "options": {
+      "A": "傅庚辰",
+      "B": "聂耳",
+      "C": "冼星海",
+      "D": "王莘"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_127",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《英雄儿女》的导演是谁？",
+    "options": {
+      "A": "武兆堤",
+      "B": "崔嵬",
+      "C": "谢铁骊",
+      "D": "凌子风"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_128",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《闪闪的红星》中，潘冬子用什么方法给红军送盐？",
+    "options": {
+      "A": "藏在衣服里",
+      "B": "把盐化成水，浸在棉衣里",
+      "C": "藏在书包里",
+      "D": "放在食物里"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_129",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《没有共产党就没有新中国》最初的歌名是？",
+    "options": {
+      "A": "《没有共产党就没有中国》",
+      "B": "《共产党好》",
+      "C": "《热爱共产党》",
+      "D": "《跟着共产党走》"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_130",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《地道战》中，村民们发明的地道战术不包括？",
+    "options": {
+      "A": "麻雀战",
+      "B": "地雷战",
+      "C": "空城计",
+      "D": "水攻"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_131",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《歌唱祖国》是一首几拍子的歌曲？",
+    "options": {
+      "A": "2/4 拍",
+      "B": "3/4 拍",
+      "C": "4/4 拍",
+      "D": "6/8 拍"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_132",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红星歌》的演唱形式不包括？",
+    "options": {
+      "A": "合唱",
+      "B": "独唱",
+      "C": "说唱",
+      "D": "齐唱"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_133",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小英雄雨来》中，雨来的妈妈是做什么的？",
+    "options": {
+      "A": "农民",
+      "B": "八路军的交通员",
+      "C": "医生",
+      "D": "老师"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_134",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《英雄儿女》中，王芳是做什么的？",
+    "options": {
+      "A": "战士",
+      "B": "护士",
+      "C": "文艺兵",
+      "D": "医生"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_135",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《闪闪的红星》中，潘冬子最恨的敌人是谁？",
+    "options": {
+      "A": "胡汉三",
+      "B": "日本鬼子",
+      "C": "国民党",
+      "D": "土匪"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_136",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《没有共产党就没有新中国》创作的地点是？",
+    "options": {
+      "A": "北京房山",
+      "B": "河北",
+      "C": "陕西延安",
+      "D": "山东济南"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_137",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《地道战》中，地道与什么相连？",
+    "options": {
+      "A": "村民的房子",
+      "B": "学校",
+      "C": "医院",
+      "D": "商店"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_138",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《歌唱祖国》的歌词中，“我们爱和平，我们爱家乡” 下一句是？",
+    "options": {
+      "A": "谁敢侵犯我们就叫他灭亡",
+      "B": "英雄的人民站起来了",
+      "C": "五星红旗迎风飘扬",
+      "D": "胜利歌声多么响亮"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_139",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小兵张嘎》中，嘎子从敌人那里缴获了什么武器？",
+    "options": {
+      "A": "手枪",
+      "B": "步枪",
+      "C": "机关枪",
+      "D": "大炮"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_140",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《东方红》的演唱形式主要是？",
+    "options": {
+      "A": "合唱",
+      "B": "独唱",
+      "C": "说唱",
+      "D": "齐唱"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_141",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《英雄儿女》中,王成牺牲后.王芳为他写了一首什么歌？",
+    "options": {
+      "A": "《英雄赞歌》",
+      "B": "《歌唱祖国》",
+      "C": "《没有共产党就没有新中国》",
+      "D": "《东方红》"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_142",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《地道战》中，敌人用什么方法破坏地道？",
+    "options": {
+      "A": "放水、放毒、放火",
+      "B": "用石头砸",
+      "C": "用枪打",
+      "D": "用炸药炸"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_143",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《歌唱祖国》的歌词中,“五星红旗迎风飘扬” 下一句是？",
+    "options": {
+      "A": "胜利歌声多么响亮",
+      "B": "越过高山越过平原",
+      "C": "跨过奔腾的黄河长江",
+      "D": "宽广美丽的土地"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_144",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红星歌》的歌词中，“革命代代如潮涌” 下一句是？",
+    "options": {
+      "A": "党的光辉照万代",
+      "B": "前仆后继跟党走",
+      "C": "跟着毛主席跟着党",
+      "D": "红星闪闪放光彩"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_145",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小英雄雨来》中，雨来最后是怎样逃脱敌人魔爪的？",
+    "options": {
+      "A": "趁敌人不注意跳进河里游走",
+      "B": "被八路军救走",
+      "C": "自己偷偷跑掉",
+      "D": "敌人放了他"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_146",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《东方红》的创作时间是？",
+    "options": {
+      "A": "1942 年",
+      "B": "1945 年",
+      "C": "1949 年",
+      "D": "1950 年"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_147",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《红色娘子军》中，红色娘子军成立的目的是？",
+    "options": {
+      "A": "反抗压迫，解放妇女",
+      "B": "赚钱",
+      "C": "玩耍",
+      "D": "保护自己"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_148",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《闪闪的红星》这部作品的主题是什么？",
+    "options": {
+      "A": "童话故事",
+      "B": "革命斗争与成长",
+      "C": "科幻冒险",
+      "D": "爱情故事"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_149",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《地道战》中，村民们在地道里设置了什么来对付敌人？",
+    "options": {
+      "A": "陷阱、射击孔",
+      "B": "沙发、电视",
+      "C": "食物、水",
+      "D": "玩具、书本"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_150",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "《小兵张嘎》这部作品的主题是什么？",
+    "options": {
+      "A": "调皮捣蛋",
+      "B": "抗日救国、机智勇敢",
+      "C": "好好学习",
+      "D": "玩耍娱乐"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_151",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中华人民共和国成立的时间是哪一年？",
+    "options": {
+      "A": "1937 年",
+      "B": "1945 年",
+      "C": "1949 年",
+      "D": "1978 年"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_152",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "国庆节是为了纪念什么事件？",
+    "options": {
+      "A": "抗日战争胜利",
+      "B": "中华人民共和国成立",
+      "C": "改革开放",
+      "D": "香港回归"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_153",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "长征开始于哪一年？",
+    "options": {
+      "A": "1931 年",
+      "B": "1934 年",
+      "C": "1937 年",
+      "D": "1945 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_154",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗日战争胜利是哪一年？",
+    "options": {
+      "A": "1937 年",
+      "B": "1945 年",
+      "C": "1949 年",
+      "D": "1978 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_155",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "解放战争的起止时间是？",
+    "options": {
+      "A": "1937-1945 年",
+      "B": "1946-1949 年",
+      "C": "1950-1953 年",
+      "D": "1978-1992 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_156",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "香港回归祖国的时间是？",
+    "options": {
+      "A": "1997 年 7 月 1 日",
+      "B": "1999 年 12 月 20 日",
+      "C": "1998 年 7 月 1 日",
+      "D": "2000 年 12 月 20 日"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_157",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "澳门回归祖国的时间是？",
+    "options": {
+      "A": "1997 年 7 月 1 日",
+      "B": "1999 年 12 月 20 日",
+      "C": "1998 年 7 月 1 日",
+      "D": "2000 年 12 月 20 日"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_158",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "改革开放开始于哪一年？",
+    "options": {
+      "A": "1949 年",
+      "B": "1978 年",
+      "C": "1997 年",
+      "D": "1999 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_159",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中国共产党成立于哪一年？",
+    "options": {
+      "A": "1911 年",
+      "B": "1921 年",
+      "C": "1931 年",
+      "D": "1949 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_160",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "长征胜利结束的时间是？",
+    "options": {
+      "A": "1934 年",
+      "B": "1935 年",
+      "C": "1936 年",
+      "D": "1937 年"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_161",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中国全面抗击日本侵略战争的起点是？",
+    "options": {
+      "A": "九一八事变",
+      "B": "七七事变",
+      "C": "西安事变",
+      "D": "八一南昌起义"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_162",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "解放战争中，三大战役不包括？",
+    "options": {
+      "A": "辽沈战役",
+      "B": "淮海战役",
+      "C": "平津战役",
+      "D": "渡江战役"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_163",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗美援朝战争结束的时间是？",
+    "options": {
+      "A": "1950 年",
+      "B": "1953 年",
+      "C": "1956 年",
+      "D": "1978 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_164",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "改革开放的总设计师是谁？",
+    "options": {
+      "A": "毛泽东",
+      "B": "邓小平",
+      "C": "周恩来",
+      "D": "孙中山"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_165",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中国共产党第一次全国代表大会召开的地点是？",
+    "options": {
+      "A": "北京",
+      "B": "上海、嘉兴",
+      "C": "广州",
+      "D": "武汉"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_166",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中华人民共和国的国旗是在什么会议上确定的？",
+    "options": {
+      "A": "中共一大",
+      "B": "中国人民政治协商会议第一届全体会议",
+      "C": "中共七大",
+      "D": "中共八大"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_167",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "长征中，红军四渡赤水的核心决策者是？",
+    "options": {
+      "A": "毛泽东",
+      "B": "周恩来",
+      "C": "朱德",
+      "D": "彭德怀"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_168",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "解放战争中，渡江战役解放的第一个城市是？",
+    "options": {
+      "A": "解放铜陵",
+      "B": "解放北京",
+      "C": "解放上海",
+      "D": "解放广州"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_169",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗美援朝战争中，中国人民志愿军首任司令员是？",
+    "options": {
+      "A": "毛泽东",
+      "B": "彭德怀",
+      "C": "周恩来",
+      "D": "朱德"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_170",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中华人民共和国成立后，第一部宪法颁布于哪一年？",
+    "options": {
+      "A": "1949 年",
+      "B": "1954 年",
+      "C": "1978 年",
+      "D": "1982 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_171",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗日战争中，百团大战的指挥者是？",
+    "options": {
+      "A": "毛泽东",
+      "B": "彭德怀",
+      "C": "周恩来",
+      "D": "朱德"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_172",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "解放战争中，辽沈战役的主要战场在？",
+    "options": {
+      "A": "东北地区",
+      "B": "华北地区",
+      "C": "华东地区",
+      "D": "华中地区"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_173",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "改革开放的标志是？",
+    "options": {
+      "A": "中共十一届三中全会",
+      "B": "中共十二大",
+      "C": "中共十三大",
+      "D": "中共十四大"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_174",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中华人民共和国成立后，我国的国体是？",
+    "options": {
+      "A": "人民民主专政",
+      "B": "资本主义专政",
+      "C": "封建主义专政",
+      "D": "帝国主义专政"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_175",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "长征中，红军渡过的大河不包括？",
+    "options": {
+      "A": "金沙江",
+      "B": "大渡河",
+      "C": "黄河",
+      "D": "长江"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_176",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗日战争中，台儿庄战役的指挥者是？",
+    "options": {
+      "A": "李宗仁",
+      "B": "彭德怀",
+      "C": "毛泽东",
+      "D": "周恩来"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_177",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "解放战争中，淮海战役的指挥者不包括？",
+    "options": {
+      "A": "邓小平",
+      "B": "刘伯承",
+      "C": "陈毅",
+      "D": "孙中山"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_178",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "香港回归祖国后，由谁担任第一任行政长官？",
+    "options": {
+      "A": "董建华",
+      "B": "曾荫权",
+      "C": "梁振英",
+      "D": "林郑月娥"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_179",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "澳门回归祖国后，由谁担任第一任行政长官？",
+    "options": {
+      "A": "何厚铧",
+      "B": "崔世安",
+      "C": "贺一诚",
+      "D": "马万祺"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_180",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中国共产党的最高理想和最终目标是？",
+    "options": {
+      "A": "实现共产主义",
+      "B": "实现资本主义",
+      "C": "实现封建主义",
+      "D": "实现帝国主义"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_181",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中华人民共和国成立后，我国的政体是？",
+    "options": {
+      "A": "人民代表大会制度",
+      "B": "君主立宪制",
+      "C": "总统制",
+      "D": "议会制"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_182",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "长征中，红军召开的具有转折意义的会议是？",
+    "options": {
+      "A": "中共一大",
+      "B": "遵义会议",
+      "C": "中共七大",
+      "D": "中共八大"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_183",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗日战争中，西安事变的和平解决标志着？",
+    "options": {
+      "A": "抗日民族统一战线的初步形成",
+      "B": "抗日战争的开始",
+      "C": "抗日战争的胜利",
+      "D": "解放战争的开始"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_184",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "解放战争中，平津战役的结果是？",
+    "options": {
+      "A": "解放北平",
+      "B": "解放南京",
+      "C": "解放上海",
+      "D": "解放广州"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_185",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "改革开放后，我国对外开放的格局是？",
+    "options": {
+      "A": "经济特区 - 沿海开放城市 - 沿海经济开放区 - 内地",
+      "B": "沿海开放城市 - 经济特区 - 沿海经济开放区 - 内地",
+      "C": "沿海经济开放区 - 经济特区 - 沿海开放城市 - 内地",
+      "D": "内地 - 经济特区 - 沿海开放城市 - 沿海经济开放区"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_186",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中国共产党成立的纪念日是？",
+    "options": {
+      "A": "7 月 1 日",
+      "B": "8 月 1 日",
+      "C": "10 月 1 日",
+      "D": "12 月 25 日"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_187",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "新中国成立后，我国第一颗原子弹爆炸成功的时间是？",
+    "options": {
+      "A": "1964 年",
+      "B": "1967 年",
+      "C": "1970 年",
+      "D": "1978 年"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_188",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗日战争中，中国共产党领导的抗日根据地的总后方是？",
+    "options": {
+      "A": "延安",
+      "B": "北京",
+      "C": "上海",
+      "D": "广州"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_189",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "解放战争中，渡江战役的指挥者是?",
+    "options": {
+      "A": "毛泽东、朱德",
+      "B": "邓小平、刘伯承",
+      "C": "陈毅、粟裕",
+      "D": "彭德怀、贺龙"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_190",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗美援朝战争中，志愿军战士邱少云牺牲的地点是？",
+    "options": {
+      "A": "上甘岭",
+      "B": "朝鲜金化郡",
+      "C": "平壤",
+      "D": "汉城"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_191",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "香港回归祖国前，被英国占领了多少年？",
+    "options": {
+      "A": "100 年",
+      "B": "155 年",
+      "C": "200 年",
+      "D": "300 年"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_192",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "澳门回归祖国前，被葡萄牙占领了多少年？",
+    "options": {
+      "A": "100 年",
+      "B": "112 年",
+      "C": "200 年",
+      "D": "300 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_193",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "改革开放后，我国第一颗人造地球卫星 “东方红一号” 发射成功的时 间是？",
+    "options": {
+      "A": "1964 年",
+      "B": "1967 年",
+      "C": "1970 年",
+      "D": "1978 年"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_194",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中华人民共和国成立后，我国实行的基本经济制度是？",
+    "options": {
+      "A": "公有制为主体、多种所有制经济共同发展",
+      "B": "私有制为主体",
+      "C": "单一公有制",
+      "D": "单一私有制"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_195",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗日战争中，百团大战开始的时间是？",
+    "options": {
+      "A": "1937 年",
+      "B": "1940 年",
+      "C": "1945 年",
+      "D": "1949 年"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_196",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "解放战争中，辽沈战役的时间是？",
+    "options": {
+      "A": "1948 年 9-11 月",
+      "B": "1948 年 11 月 - 1949 年 1 月",
+      "C": "1948 年 12 月 - 1949 年 1 月",
+      "D": "1949 年 4-5 月"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_197",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "抗美援朝战争中，黄继光牺牲的战役是？",
+    "options": {
+      "A": "上甘岭战役",
+      "B": "平型关战役",
+      "C": "台儿庄战役",
+      "D": "百团大战"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_198",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "改革开放后，我国加入世界贸易组织的时间是？",
+    "options": {
+      "A": "1997 年",
+      "B": "1999 年",
+      "C": "2001 年",
+      "D": "2003 年"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_199",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "中国共产党领导的第一次武装起义是？",
+    "options": {
+      "A": "八一南昌起义",
+      "B": "秋收起义",
+      "C": "广州起义",
+      "D": "百色起义"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "primary_1_3_200",
+    "grade": "primary_1_3",
+    "type": "single",
+    "question": "长征的胜利具有什么意义？",
+    "options": {
+      "A": "标志着抗日战争的胜利",
+      "B": "保存了革命力量，为中国革命奠定了基础",
+      "C": "标志着解放战争的胜利",
+      "D": "标志着新中国的成立"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_201",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列属于中国革命时期形成的红色精神的有？",
+    "options": {
+      "A": "井冈山精神",
+      "B": "长征精神",
+      "C": "工匠精神",
+      "D": "延安精神"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_202",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "井冈山精神的核心内涵包括？",
+    "options": {
+      "A": "坚定信念、艰苦奋斗",
+      "B": "实事求是、敢闯新路",
+      "C": "依靠群众、勇于胜利",
+      "D": "精益求精、追求卓越"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_203",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "长征精神体现的主要内容有？",
+    "options": {
+      "A": "不怕牺牲、排除万难的革命英雄主义",
+      "B": "顾全大局、紧密团结的革命集体主义",
+      "C": "坚韧不拔、百折不挠的革命乐观主义",
+      "D": "开拓创新、与时俱进的改革精神"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_204",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "延安精神的主要内涵包括？",
+    "options": {
+      "A": "坚定正确的政治方向",
+      "B": "解放思想、实事求是的思想路线",
+      "C": "全心全意为人民服务的根本宗旨",
+      "D": "自力更生、艰苦奋斗的创业精神"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_205",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列属于社会主义建设时期形成的红色精神的有？",
+    "options": {
+      "A": "雷锋精神",
+      "B": "大庆精神",
+      "C": "长征精神",
+      "D": "两弹一星精神"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_206",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "雷锋精神的核心内容包括？",
+    "options": {
+      "A": "热爱祖国、热爱人民",
+      "B": "助人为乐、无私奉献",
+      "C": "爱岗敬业、勤俭节约",
+      "D": "投机取巧、贪图私利"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_207",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "大庆精神的主要体现有？",
+    "options": {
+      "A": "爱国、创业",
+      "B": "求实、奉献",
+      "C": "奢靡、享乐",
+      "D": "创新、进取"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_208",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "两弹一星精神的内涵包括？",
+    "options": {
+      "A": "热爱祖国、无私奉献",
+      "B": "自力更生、艰苦奋斗",
+      "C": "大力协同、勇于登攀",
+      "D": "安于现状、不思进取"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_209",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "改革开放以来形成的红色精神有？",
+    "options": {
+      "A": "特区精神",
+      "B": "抗洪精神",
+      "C": "抗震救灾精神",
+      "D": "井冈山精神"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_210",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "特区精神的主要内容包括？",
+    "options": {
+      "A": "敢闯敢试、敢为人先",
+      "B": "埋头苦干、求真务实",
+      "C": "固步自封、墨守成规",
+      "D": "勇于创新、追求卓越"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_211",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "抗洪精神的内涵有？",
+    "options": {
+      "A": "各自为战、畏缩不前",
+      "B": "万众一心、众志成城",
+      "C": "不怕困难、顽强拼搏",
+      "D": "坚韧不拔、敢于胜利"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_212",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "抗震救灾精神体现了？",
+    "options": {
+      "A": "万众一心、众志成城",
+      "B": "不畏艰险、百折不挠",
+      "C": "以人为本、尊重科学",
+      "D": "消极避世、听天由命"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_213",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色文化的主要载体包括？",
+    "options": {
+      "A": "革命遗址",
+      "B": "封建迷信思想",
+      "C": "英雄事迹",
+      "D": "红色文艺作品"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_214",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列属于红色文化范畴的有？",
+    "options": {
+      "A": "革命纪念馆",
+      "B": "红色歌谣",
+      "C": "长征路线遗址",
+      "D": "低俗网络小说"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_215",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "传承红色精神对小学生的意义在于？",
+    "options": {
+      "A": "培养爱国情怀",
+      "B": "树立正确的价值观",
+      "C": "增强责任感和使命感",
+      "D": "只关注考试成绩"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_216",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列关于红色精神的说法正确的有？",
+    "options": {
+      "A": "红色精神是中华民族精神的重要组成部分",
+      "B": "红色精神具有时代性和传承性",
+      "C": "红色精神只存在于革命战争年代",
+      "D": "传承红色精神有助于青少年健康成长"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_217",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "井冈山革命根据地的建立标志着？",
+    "options": {
+      "A": "中国共产党开始探索农村包围城市的革命道路",
+      "B": "确立了毛泽东思想的指导地位",
+      "C": "开辟了“工农武装割据”的新局面",
+      "D": "中国革命从此一帆风顺"
+    },
+    "answer": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_218",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "长征胜利的历史意义在于？",
+    "options": {
+      "A": "粉碎了国民党反动派消灭红军的企图",
+      "B": "保存了党和红军的基干力量",
+      "C": "为中国革命保留了火种",
+      "D": "标志着抗日战争的胜利"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_219",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "延安时期是中国革命的重要阶段，期间开展了？",
+    "options": {
+      "A": "整风运动",
+      "B": "大生产运动",
+      "C": "新文化运动",
+      "D": "洋务运动"
+    },
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_220",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "整风运动的主要内容包括？",
+    "options": {
+      "A": "反对主观主义以整顿学风",
+      "B": "反对宗派主义以整顿党风",
+      "C": "反对党八股以整顿文风",
+      "D": "反对帝国主义以整顿外交"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_221",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "大生产运动的主要目的是？",
+    "options": {
+      "A": "克服经济困难",
+      "B": "实现自给自足",
+      "C": "支援前线抗战",
+      "D": "发展资本主义经济"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_222",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列体现雷锋“爱岗敬业”精神的事迹有？",
+    "options": {
+      "A": "对待工作一丝不苟，认真完成各项任务",
+      "B": "刻苦钻研技术，提高工作效率",
+      "C": "经常帮助同事解决工作中的困难",
+      "D": "工作态度不端正，责任心不强"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_223",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "大庆油田开发建设中，王进喜体现的精神有？",
+    "options": {
+      "A": "不怕苦、不怕累的拼搏精神",
+      "B": "为国分忧、为民族争气的爱国精神",
+      "C": "贪图享受的享乐精神",
+      "D": "精益求精的求实精神"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_224",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "“两弹一星”指的是？",
+    "options": {
+      "A": "原子弹",
+      "B": "氢弹",
+      "C": "人造地球卫星",
+      "D": "导弹"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_225",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "特区建设初期面临的困难有？",
+    "options": {
+      "A": "缺乏人口",
+      "B": "缺乏资金",
+      "C": "缺乏技术",
+      "D": "缺乏经验"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_226",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列关于抗洪精神的说法正确的有？",
+    "options": {
+      "A": "是在抗击特大洪水过程中形成的",
+      "B": "体现了中华民族的凝聚力",
+      "C": "是对红色精神的传承和发展",
+      "D": "只适用于抗洪救灾场景"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_227",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "抗震救灾精神中的“以人为本”体现在？",
+    "options": {
+      "A": "优先抢救生命",
+      "B": "关心受灾群众的生活",
+      "C": "重视灾后重建中的民生问题",
+      "D": "只关注经济损失"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_228",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "革命遗址作为红色文化载体，其作用在于？",
+    "options": {
+      "A": "直观展示革命历史",
+      "B": "传承红色精神",
+      "C": "开展爱国主义教育的重要场所",
+      "D": "仅供旅游观光"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_229",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色歌谣的特点有？",
+    "options": {
+      "A": "反映革命斗争生活",
+      "B": "语言朴实易懂",
+      "C": "具有强烈的感染力和号召力",
+      "D": "内容低俗无聊"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_230",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "小学生传承红色精神的具体做法有？",
+    "options": {
+      "A": "参观革命纪念馆",
+      "B": "学习英雄人物事迹",
+      "C": "积极参与红色主题班会",
+      "D": "对红色文化缺乏兴趣"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_231",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列属于红色精神传承方式的有？",
+    "options": {
+      "A": "学校开展红色教育课程",
+      "B": "媒体宣传红色故事",
+      "C": "家庭讲述英雄事迹",
+      "D": "忽视红色文化学习"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_232",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "井冈山精神中“敢闯新路”的体现是？",
+    "options": {
+      "A": "放弃城市中心论，转向农村发展",
+      "B": "建立农村革命根据地",
+      "C": "开创工农武装割据的道路",
+      "D": "照搬国外革命经验"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_233",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "长征中发生的重要事件有？",
+    "options": {
+      "A": "遵义会议",
+      "B": "四渡赤水",
+      "C": "强渡大渡河",
+      "D": "鸦片战争"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_234",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "遵义会议的历史意义在于？",
+    "options": {
+      "A": "标志着红军长征的胜利结束",
+      "B": "挽救了党、挽救了红军、挽救了中国革命",
+      "C": "确立了毛泽东在党中央和红军的领导地位",
+      "D": "是中国共产党历史上一个生死攸关的转折点"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_235",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "延安整风运动的意义在于？",
+    "options": {
+      "A": "使全党确立了实事求是的思想路线",
+      "B": "增强了党的凝聚力和战斗力",
+      "C": "为夺取抗战胜利和全国解放奠定了思想基础",
+      "D": "导致了党内矛盾的激化"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_236",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "雷锋“助人为乐”的事迹包括？",
+    "options": {
+      "A": "冒雨护送老人和小孩回家",
+      "B": "主动为灾区捐款",
+      "C": "帮助战友缝补衣物、洗被褥",
+      "D": "对他人困难漠不关心"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_237",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "大庆精神中“奉献”的体现有？",
+    "options": {
+      "A": "石油工人不计个人得失，扎根油田",
+      "B": "为国家石油事业牺牲个人利益",
+      "C": "艰苦奋斗，为国家创造财富",
+      "D": "追求个人名利，斤斤计较"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_238",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "“两弹一星”研制过程中，科研工作者面临的困难有？",
+    "options": {
+      "A": "技术落后",
+      "B": "环境恶劣",
+      "C": "国外封锁",
+      "D": "资金充足"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_239",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "特区精神中“敢闯敢试”的具体表现有？",
+    "options": {
+      "A": "突破传统体制束缚",
+      "B": "大胆引进外资和技术",
+      "C": "探索市场经济发展模式",
+      "D": "完全照搬西方发展模式"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_240",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "抗洪救灾中，体现“众志成城”的场景有？",
+    "options": {
+      "A": "军民齐心协力筑堤防洪",
+      "B": "缺乏组织，未能形成合力",
+      "C": "全国各地支援灾区",
+      "D": "受灾群众互帮互助"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_241",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "抗震救灾中，“尊重科学”的做法有？",
+    "options": {
+      "A": "运用科学技术探测灾情",
+      "B": "按照科学方法开展救援",
+      "C": "依据科学原理进行灾后重建",
+      "D": "盲目开展救援行动"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_242",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色文化对当代社会的意义在于？",
+    "options": {
+      "A": "增强民族凝聚力",
+      "B": "提供精神动力",
+      "C": "促进社会和谐发展",
+      "D": "阻碍社会进步"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_243",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列属于革命遗址的有？",
+    "options": {
+      "A": "井冈山革命烈士陵园",
+      "B": "延安枣园革命旧址",
+      "C": "遵义会议会址",
+      "D": "故宫博物院"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_244",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色歌谣在革命时期的作用有？",
+    "options": {
+      "A": "宣传革命思想",
+      "B": "鼓舞士气",
+      "C": "团结群众",
+      "D": "传播封建思想"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_245",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "小学生学习红色精神的途径有？",
+    "options": {
+      "A": "阅读红色书籍",
+      "B": "观看红色电影",
+      "C": "参加红色研学活动",
+      "D": "沉迷网络游戏"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_246",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列关于红色精神传承的说法正确的有？",
+    "options": {
+      "A": "红色精神已经过时，不需要传承",
+      "B": "红色精神需要一代又一代传承下去",
+      "C": "传承红色精神要结合时代特点",
+      "D": "青少年是传承红色精神的重要力量"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_247",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "井冈山革命根据地建立的背景有？",
+    "options": {
+      "A": "秋收起义后，革命力量转向农村",
+      "B": "国民党反动派在城市的统治力量强大",
+      "C": "农村有广大的农民群众作为革命基础",
+      "D": "中国共产党已经掌握了强大的武装力量"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_248",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "长征胜利的原因有？",
+    "options": {
+      "A": "中国共产党的正确领导",
+      "B": "红军战士的英勇顽强",
+      "C": "人民群众的大力支持",
+      "D": "国民党军队的软弱无能"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_249",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "延安成为革命圣地的原因有？",
+    "options": {
+      "A": "地理位置优越，易守难攻",
+      "B": "中国共产党在这里制定了正确的路线方针政策",
+      "C": "开展了整风运动和大生产运动，巩固了根据地",
+      "D": "是当时中国的经济中心"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_250",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "雷锋精神与社会主义核心价值观的联系有？",
+    "options": {
+      "A": "雷锋精神与社会主义核心价值观无关",
+      "B": "雷锋精神体现了爱国的要求",
+      "C": "雷锋精神体现了敬业的要求",
+      "D": "雷锋精神体现了友善的要求"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_251",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列属于李大钊同志主要革命事迹的有？",
+    "options": {
+      "A": "积极传播马克思主义思想",
+      "B": "参与创建中国共产党",
+      "C": "领导南昌起义",
+      "D": "参与红军长征"
+    },
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_252",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "刘胡兰同志的英雄事迹体现出的特点有？",
+    "options": {
+      "A": "参与抗美援朝战争，英勇负伤",
+      "B": "面对国民党反动派的酷刑坚贞不屈",
+      "C": "牺牲时年仅 15 岁，为革命事业献出生命",
+      "D": "领导当地农民开展土地改革运动"
+    },
+    "answer": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_253",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "董存瑞同志在革命中的突出贡献包括？",
+    "options": {
+      "A": "在抗美援朝战争中用身体堵住敌人枪眼",
+      "B": "在抗日战争中严守潜伏纪律，直至牺牲",
+      "C": "舍身炸掉敌人的碉堡，为部队开辟道路",
+      "D": "牺牲于解放隆化的战斗中"
+    },
+    "answer": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_254",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "雷锋同志生前的助人行为有？",
+    "options": {
+      "A": "冒雨步行数十里，护送陌生大娘和孩子回家",
+      "B": "经常利用休息时间帮战友缝补衣服、洗被褥",
+      "C": "将自己的津贴费悄悄捐给灾区群众",
+      "D": "写下《雷锋日记》，记录自己的思想和行动"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_255",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "黄继光同志的英雄事迹主要发生在？",
+    "options": {
+      "A": "抗日战争时期",
+      "B": "抗美援朝战争时期",
+      "C": "他用身体堵住敌人地堡的机枪射口",
+      "D": "他在解放南京的战斗中牺牲"
+    },
+    "answer": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_256",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "邱少云同志的事迹体现出的革命精神有？",
+    "options": {
+      "A": "为掩护战友，在火海中严守潜伏纪律",
+      "B": "参与了上甘岭战役",
+      "C": "在抗日战争中炸毁敌人坦克",
+      "D": "牺牲后被追授“一级英雄”称号"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_257",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "王进喜同志在大庆油田建设中的行为有？",
+    "options": {
+      "A": "带领团队“跳进泥浆池”搅拌泥浆，制服井喷",
+      "B": "提出“宁肯少活二十年，拼命也要拿下大油田”的口号",
+      "C": "参与“两弹一星”的研制工作",
+      "D": "长期在沙漠地区从事核试验研究"
+    },
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_258",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "邓稼先同志为我国国防事业作出的贡献包括？",
+    "options": {
+      "A": "主持原子弹、氢弹的研制工作",
+      "B": "长期隐姓埋名，扎根戈壁滩",
+      "C": "领导建设大庆油田",
+      "D": "参与研制人造地球卫星“东方红一号”"
+    },
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_259",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "焦裕禄同志在兰考工作期间的主要举措有？",
+    "options": {
+      "A": "带领群众治理兰考的风沙、盐碱和内涝",
+      "B": "即使身患重病，仍坚持工作",
+      "C": "参与领导淮海战役",
+      "D": "主持修建红旗渠"
+    },
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_260",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "罗盛教同志的英雄事迹是？",
+    "options": {
+      "A": "在抗美援朝战争中，跳入冰窟救起朝鲜少年",
+      "B": "自己不幸牺牲，年仅 21 岁",
+      "C": "在对越自卫反击战中炸毁敌人碉堡",
+      "D": "参与开发北大荒"
+    },
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_261",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列关于红色歌剧《白毛女》的说法正确的有？",
+    "options": {
+      "A": "讲述了喜儿从受压榨到获得解放的故事",
+      "B": "核心主题是“旧社会把人变成鬼，新社会把鬼变成人”",
+      "C": "创作于解放战争时期",
+      "D": "主要背景设定在抗日战争时期"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_262",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色电影《红色娘子军》的相关描述正确的有？",
+    "options": {
+      "A": "背景设定在土地革命时期的海南岛",
+      "B": "主角吴琼花从奴隶成长为红军战士",
+      "C": "展现了女性在革命中的英勇表现",
+      "D": "主要讲述抗美援朝的故事"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_263",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "革命歌曲《松花江上》的创作与特点包括？",
+    "options": {
+      "A": "由冼星海作曲",
+      "B": "反映了九一八事变后东北人民的流亡之苦",
+      "C": "歌词饱含对故乡的思念与抗日决心",
+      "D": "创作于七七事变后"
+    },
+    "answer": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_264",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列属于红色小说《林海雪原》的核心元素有？",
+    "options": {
+      "A": "以解放战争时期东北剿匪为背景",
+      "B": "塑造了杨子荣、少剑波等英雄形象",
+      "C": "作者是曲波",
+      "D": "包含“智取威虎山”的经典情节"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_265",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色电影《小兵张嘎》的情节特点有？",
+    "options": {
+      "A": "主角嘎子是抗日战争时期的少年英雄",
+      "B": "展现了冀中平原军民的抗日智慧",
+      "C": "嘎子最终成为八路军正式战士",
+      "D": "主要背景设定在解放战争时期"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_266",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "革命歌曲《大刀进行曲》的相关信息正确的有？",
+    "options": {
+      "A": "创作于抗日战争初期",
+      "B": "歌颂了国民党二十九军大刀队的抗日壮举",
+      "C": "旋律激昂，充满战斗力量",
+      "D": "由聂耳作词作曲"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_267",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色小说《青春之歌》的主要内容包括？",
+    "options": {
+      "A": "主角林道静是进步青年代表",
+      "B": "展现了青年投身抗日救亡运动的历程",
+      "C": "作者是杨沫",
+      "D": "主要讲述农村土地改革的故事"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_268",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色电影《地道战》的艺术特色有？",
+    "options": {
+      "A": "以抗日战争时期敌后游击斗争为背景",
+      "B": "体现了中国农民的军事智慧",
+      "C": "主角是董存瑞",
+      "D": "地道成为打击敌人的重要阵地"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_269",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "革命歌曲《南泥湾》的创作背景与意义有？",
+    "options": {
+      "A": "创作于延安大生产运动时期",
+      "B": "歌颂了八路军三五九旅的垦荒精神",
+      "C": "歌词包含“陕北的好江南”",
+      "D": "由光未然作词"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_270",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红色小说《红岩》的经典情节与人物包括？",
+    "options": {
+      "A": "背景设定在重庆解放前夕的渣滓洞、白公馆",
+      "B": "江姐（江竹筠）面对酷刑坚贞不屈",
+      "C": "主要讲述红军长征的故事",
+      "D": "作者是柳青"
+    },
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "primary_1_3_271",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "下列关于北伐战争（1926-1927 年）的说法正确的有？",
+    "options": {
+      "A": "主要目标是推翻吴佩孚、孙传芳、张作霖的军阀统治",
+      "B": "由国民革命军总司令蒋介石指挥",
+      "C": "沉重打击了北洋军阀的势力",
+      "D": "最终彻底消灭了所有军阀势力"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_272",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "南昌起义与广州起义的共同点有？",
+    "options": {
+      "A": "都发生于 1927 年，是武装反抗国民党的重要起义",
+      "B": "都由中国共产党独立领导",
+      "C": "都成功建立了长期存在的革命根据地",
+      "D": "都以攻打大城市为主要目标"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "primary_1_3_273",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "井冈山会师（1928 年）的重要意义包括?",
+    "options": {
+      "A": "朱德、毛泽东率领的部队在井冈山胜利会师",
+      "B": "合编为中国工农红军第四军",
+      "C": "标志着“工农武装割据”局面的正式形成",
+      "D": "直接导致了红军长征的开始"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_274",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红军长征中“飞夺泸定桥”的相关史实正确的有？",
+    "options": {
+      "A": "发生于 1935 年 5 月，是突破大渡河天险的关键战役",
+      "B": "红军战士在没有木板的铁索上冲锋，击溃敌军",
+      "C": "为红军北上抗日开辟了道路",
+      "D": "是长征中最后一次重大战斗"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_275",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "红军“过雪山草地”的历史意义有？",
+    "options": {
+      "A": "体现了红军战士不怕牺牲、坚韧不拔的精神",
+      "B": "克服了极端恶劣的自然环境，保存了革命力量",
+      "C": "为红军到达陕北、实现战略转移奠定基础",
+      "D": "直接粉碎了国民党反动派的围追堵截"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_276",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "平型关大捷与百团大战的不同点在于？",
+    "options": {
+      "A": "平型关大捷是 1937 年的敌后战场首胜，百团大战是 1940 年的大规模破袭战",
+      "B": "平型关大捷由林彪指挥，百团大战由彭德怀指挥",
+      "C": "平型关大捷以伏击战为主，百团大战以破袭交通线为主",
+      "D": "平型关大捷是抗日战争的最后一战"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_277",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "台儿庄战役（1938 年）的特点有？",
+    "options": {
+      "A": "是正面战场取得的重大胜利",
+      "B": "由李宗仁指挥国民党军队作战",
+      "C": "沉重打击了日军的嚣张气焰，振奋全国民心",
+      "D": "彻底扭转了抗日战争的战局"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_278",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "长沙会战（1939-1942 年）的相关说法正确的有？",
+    "options": {
+      "A": "共进行了四次，是抗日战争中持续时间最长的会战之一",
+      "B": "中国军队顽强抵抗，多次击退日军进攻",
+      "C": "保卫了华中地区的战略要地，牵制了日军兵力",
+      "D": "最终以日军完全占领长沙告终"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_279",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "孟良崮战役（1947 年）的意义包括？",
+    "options": {
+      "A": "是华东野战军在解放战争中的关键战役",
+      "B": "全歼国民党精锐部队整编第 74 师",
+      "C": "粉碎了国民党对山东解放区的重点进攻",
+      "D": "直接导致了国民党政权的垮台"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "primary_1_3_280",
+    "grade": "primary_1_3",
+    "type": "multiple",
+    "question": "济南战役（1948 年）的重要地位有？",
+    "options": {
+      "A": "是解放战争中首次攻克大城市的战役",
+      "B": "由许世友、谭震林指挥华东野战军",
+      "C": "揭开了三大战役的序幕",
+      "D": "彻底解放了华北地区"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ]
+  }
+]

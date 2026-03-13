@@ -3,44 +3,67 @@ import fs from 'fs';
 const parseFile = (filename, grade) => {
   if (!fs.existsSync(filename)) return [];
   const content = fs.readFileSync(filename, 'utf-8');
-  const lines = content.split('\n').map(l => l.trim()).filter(l => l);
+  // Use a more robust split that handles different newline types and keeps empty lines if they are within a question
+  const lines = content.split(/\r?\n/).map(l => l.trim());
   
   const questions = [];
   let currentQuestion = null;
   let idCounter = 1;
-  let isMultiple = false;
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
+    if (!line) continue;
+
+    // Check for a line containing "答案：" - this is our primary anchor
+    const ansMatch = line.match(/^(.*?)\s*答案：\s*([A-D、]+)\s*$/);
     
-    // Check if it's a question line
-    const qMatch = line.match(/^\d+\.(.*?)\s*答案：([A-D、]+)$/);
-    if (qMatch) {
+    if (ansMatch) {
+      // If we found a new "答案：" line, the content before it (and possibly previous lines) is the question
       if (currentQuestion) {
         questions.push(currentQuestion);
       }
-      
-      const qText = qMatch[1].trim();
-      const answerStr = qMatch[2].trim();
+
+      let qTextPart = ansMatch[1].trim(); 
+      const answerStr = ansMatch[2].trim();
       const answers = answerStr.split('、');
+
+      // Look backwards for more question text lines
+      // We stop if we hit an Option line, a previous Answer line, or a Section Header (starts with Chinese number like "一、")
+      let j = i - 1;
+      const collectedLines = [];
+      while (j >= 0) {
+        const prevLine = lines[j];
+        // Stop conditions
+        if (prevLine.match(/^[A-D]\./)) break; // Hit an option
+        if (prevLine.includes('答案：')) break; // Hit previous answer
+        if (prevLine.match(/^[一二三四五六七八九十]、/)) break; // Hit a section header
+
+        if (prevLine.trim()) {
+            collectedLines.unshift(prevLine.trim());
+        }
+        j--;
+      }
       
-      isMultiple = answers.length > 1;
-      
+      let fullQuestionText = [...collectedLines, qTextPart].join(' ').trim();
+      // Remove leading number (e.g., "1.", "120.")
+      fullQuestionText = fullQuestionText.replace(/^\d+\.\s*/, '');
+
       currentQuestion = {
         id: `${grade}_${idCounter++}`,
         grade: grade,
-        type: isMultiple ? 'multiple' : 'single',
-        question: qText,
+        type: answers.length > 1 ? 'multiple' : 'single',
+        question: fullQuestionText,
         options: {},
         answer: answers
       };
       continue;
     }
-    
-    // Check if it's an option line
+
+    // Check if it's an option line (e.g., "A. xxxxx")
     const optMatch = line.match(/^([A-D])\.\s*(.*)$/);
     if (optMatch && currentQuestion) {
       currentQuestion.options[optMatch[1]] = optMatch[2].trim();
+      continue;
     }
   }
   
@@ -54,9 +77,14 @@ const parseFile = (filename, grade) => {
 const p13 = parseFile('src/data/raw_p13.txt', 'primary_1_3');
 const p46 = parseFile('src/data/raw_p46.txt', 'primary_4_6');
 const jh1 = parseFile('src/data/raw_jh.txt', 'junior_high');
-const jh2 = parseFile('src/data/raw_jh_2.txt', 'junior_high');
 
-const allQuestions = [...p13, ...p46, ...jh1, ...jh2];
+// Output grade 1-3 separately as requested
+fs.writeFileSync('src/data/p13_questions.json', JSON.stringify(p13, null, 2));
 
+const allQuestions = [...p13, ...p46, ...jh1];
 fs.writeFileSync('src/data/parsed_questions.json', JSON.stringify(allQuestions, null, 2));
-console.log(`Parsed ${allQuestions.length} questions`);
+
+console.log(`Parsed ${p13.length} grade 1-3 questions into p13_questions.json`);
+console.log(`Parsed ${p46.length} grade 4-6 questions`);
+console.log(`Parsed ${jh1.length} junior high questions`);
+console.log(`Parsed total ${allQuestions.length} questions into parsed_questions.json`);

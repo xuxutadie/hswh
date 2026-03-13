@@ -3,14 +3,15 @@ import { motion, AnimatePresence } from 'motion/react';
 import { GradeLevel, Question } from '../types';
 import { CheckCircle2, XCircle, AlertCircle, Timer } from 'lucide-react';
 import allQuestions from '../data/parsed_questions.json';
+import p13Questions from '../data/p13_questions.json';
 
 interface Props {
   grade: GradeLevel;
   onComplete: (score: number, total: number) => void;
 }
 
-const QUIZ_TIME_LIMIT = 15 * 60; // 15 minutes in seconds
-const MAX_QUESTIONS = 100;
+const QUIZ_TIME_LIMIT_PER_QUESTION = 30; // 30 seconds per question
+const MAX_QUESTIONS = 1000; // Increased limit to include all questions
 
 // 播放答对音效 - 使用 Web Audio API 生成悦耳的成功音效
 const playCorrectSound = () => {
@@ -86,7 +87,7 @@ export default function Quiz({ grade, onComplete }: Props) {
   const [selectedOptions, setSelectedOptions] = useState<string[]>([]);
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(QUIZ_TIME_LIMIT);
+  const [timeLeft, setTimeLeft] = useState(0);
   
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
   const scoreRef = useRef(score);
@@ -96,29 +97,39 @@ export default function Quiz({ grade, onComplete }: Props) {
   }, [score]);
 
   useEffect(() => {
-    // Filter questions by grade and shuffle them
-    const filtered = (allQuestions as Question[]).filter(q => q.grade === grade);
-    if (filtered.length === 0) return;
-
-    // Simple shuffle
-    let shuffled = [...filtered].sort(() => Math.random() - 0.5);
+    let finalQuestions: Question[] = [];
     
-    // Pad to MAX_QUESTIONS if not enough
-    if (shuffled.length < MAX_QUESTIONS) {
-      const padded: Question[] = [];
-      let iteration = 0;
-      while (padded.length < MAX_QUESTIONS) {
-        // Add a unique suffix to ID so React keys don't clash
-        const batch = shuffled.map(q => ({...q, id: `${q.id}_${iteration}`}));
-        padded.push(...batch);
-        iteration++;
-      }
-      shuffled = padded.slice(0, MAX_QUESTIONS);
+    if (grade === 'primary_1_3') {
+      // Use the separate 1-3 grade question bank
+      const p13 = p13Questions as Question[];
+      // Randomly pick 100 questions for practice
+      let shuffled = [...p13].sort(() => Math.random() - 0.5);
+      finalQuestions = shuffled.slice(0, Math.min(100, shuffled.length));
+    } else if (grade === 'junior_high') {
+      // For junior high, select 30 multiple choice and 70 single choice
+      const juniorQuestions = (allQuestions as Question[]).filter(q => q.grade === 'junior_high');
+      
+      const singleChoice = juniorQuestions.filter(q => q.type === 'single');
+      const multipleChoice = juniorQuestions.filter(q => q.type === 'multiple');
+      
+      const shuffledSingle = [...singleChoice].sort(() => Math.random() - 0.5);
+      const shuffledMultiple = [...multipleChoice].sort(() => Math.random() - 0.5);
+      
+      const selectedSingle = shuffledSingle.slice(0, Math.min(70, shuffledSingle.length));
+      const selectedMultiple = shuffledMultiple.slice(0, Math.min(30, shuffledMultiple.length));
+      
+      // Combine without shuffling again to keep Single then Multiple order
+      finalQuestions = [...selectedSingle, ...selectedMultiple];
     } else {
-      shuffled = shuffled.slice(0, MAX_QUESTIONS);
+      // For other grades, use the general bank and follow order
+      finalQuestions = (allQuestions as Question[]).filter(q => q.grade === grade);
     }
 
-    setGradeQuestions(shuffled);
+    if (finalQuestions.length === 0) return;
+
+    setGradeQuestions(finalQuestions);
+    // Fixed 15 minutes (900 seconds) for all quizzes
+    setTimeLeft(900);
   }, [grade]);
 
   useEffect(() => {
@@ -193,12 +204,12 @@ export default function Quiz({ grade, onComplete }: Props) {
       playCorrectSound(); // 播放答对音效
       timeoutRef.current = setTimeout(() => {
         handleNext();
-      }, 1000);
+      }, 500);
     } else {
       playWrongSound(); // 播放答错音效
       timeoutRef.current = setTimeout(() => {
         handleNext();
-      }, 3000);
+      }, 1500);
     }
   };
 

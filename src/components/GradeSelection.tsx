@@ -13,19 +13,19 @@ export default function GradeSelection({ onSelect }: Props) {
       id: 'primary_1_3',
       title: '小学 1-3 年级',
       icon: <BookOpen className="w-8 h-8 mb-2 text-red-600" />,
-      desc: '红色精神与文化基础、英雄人物初识'
+      desc: '红色精神与文化基础、英雄人物初识（280 题随机练习 100 题）'
     },
     {
       id: 'primary_4_6',
       title: '小学 4-6 年级',
       icon: <School className="w-8 h-8 mb-2 text-red-600" />,
-      desc: '红色精神深入、重要历史事件与文艺作品'
+      desc: '红色精神深入、重要历史事件与文艺作品（共 491 题）'
     },
     {
       id: 'junior_high',
       title: '初中组',
       icon: <GraduationCap className="w-8 h-8 mb-2 text-red-600" />,
-      desc: '红色文化全面传承、多选题综合挑战'
+      desc: '红色文化全面传承（共 1171 题，随机抽取 100 题）'
     }
   ];
 
