@@ -190,6 +190,11 @@ export default function Quiz({ grade, onComplete }: Props) {
     }
   };
 
+  const handleSkip = () => {
+    if (isSubmitted) return;
+    handleNext();
+  };
+
   const handleSubmit = () => {
     if (selectedOptions.length === 0 || isSubmitted) return;
     
@@ -314,15 +319,23 @@ export default function Quiz({ grade, onComplete }: Props) {
             </motion.div>
           )}
 
-          <div className="flex justify-end">
+          <div className="flex justify-end gap-3">
             {!isSubmitted && (
-              <button
-                onClick={handleSubmit}
-                disabled={selectedOptions.length === 0}
-                className="bg-red-600 hover:bg-red-700 disabled:bg-stone-300 disabled:cursor-not-allowed text-white px-8 py-3 rounded-xl font-medium transition-colors"
-              >
-                提交答案
-              </button>
+              <>
+                <button
+                  onClick={handleSkip}
+                  className="bg-stone-100 hover:bg-stone-200 text-stone-600 px-6 py-3 rounded-xl font-medium transition-colors"
+                >
+                  跳过此题
+                </button>
+                <button
+                  onClick={handleSubmit}
+                  disabled={selectedOptions.length === 0}
+                  className="bg-red-600 hover:bg-red-700 disabled:bg-stone-300 disabled:cursor-not-allowed text-white px-8 py-3 rounded-xl font-medium transition-colors"
+                >
+                  提交答案
+                </button>
+              </>
             )}
           </div>
         </motion.div>
