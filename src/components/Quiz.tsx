@@ -121,8 +121,10 @@ export default function Quiz({ grade, onComplete }: Props) {
       // Combine without shuffling again to keep Single then Multiple order
       finalQuestions = [...selectedSingle, ...selectedMultiple];
     } else {
-      // For other grades, use the general bank and follow order
-      finalQuestions = (allQuestions as Question[]).filter(q => q.grade === grade);
+      // For other grades, randomly pick 100 questions
+      const gradeQs = (allQuestions as Question[]).filter(q => q.grade === grade);
+      let shuffled = [...gradeQs].sort(() => Math.random() - 0.5);
+      finalQuestions = shuffled.slice(0, Math.min(100, shuffled.length));
     }
 
     if (finalQuestions.length === 0) return;
