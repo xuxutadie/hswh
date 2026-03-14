@@ -2,7 +2,16 @@ import fs from 'fs';
 
 const parseFile = (filename, grade) => {
   if (!fs.existsSync(filename)) return [];
-  const content = fs.readFileSync(filename, 'utf-8');
+  let content = fs.readFileSync(filename, 'utf-8');
+  
+  // Pre-process content to fix merges (Robustness layer)
+  // 1. Fix merged options: ChineseChar + [Space] + A-D. e.g. "享受C." -> "享受\nC."
+  content = content.replace(/([\u4e00-\u9fa5])\s*([A-D]\.)/g, '$1\n$2');
+  // 2. Fix merged questions: ChineseChar + [Space] + Number. e.g. "服务26." -> "服务\n26."
+  content = content.replace(/([\u4e00-\u9fa5])\s*(\d+\.)/g, '$1\n$2');
+  // 3. Fix merged "Answer:" e.g. "D. Option 答案：A" -> "D. Option\n答案：A"
+  content = content.replace(/([^\n])\s*(答案：)/g, '$1\n$2');
+
   // Use a more robust split that handles different newline types and keeps empty lines if they are within a question
   const lines = content.split(/\r?\n/).map(l => l.trim());
   
