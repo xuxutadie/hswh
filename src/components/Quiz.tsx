@@ -211,12 +211,12 @@ export default function Quiz({ grade, onComplete }: Props) {
       playCorrectSound(); // 播放答对音效
       timeoutRef.current = setTimeout(() => {
         handleNext();
-      }, 500);
+      }, 200);
     } else {
       playWrongSound(); // 播放答错音效
       timeoutRef.current = setTimeout(() => {
         handleNext();
-      }, 1500);
+      }, 800);
     }
   };
 
