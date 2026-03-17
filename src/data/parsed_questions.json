@@ -306,21 +306,6 @@
     "question": "国旗升起时，我们应该？",
     "options": {
       "A": "打闹喧哗",
-      "B": "立正站好，行注目礼",
-      "C": "随意走动",
-      "D": "低头玩手机"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": "primary_1_3_22",
-    "grade": "primary_1_3",
-    "type": "single",
-    "question": "红色精神中的 “团结” 指的是？",
-    "options": {
-      "A": "只顾自己",
       "B": "大家齐心协力",
       "C": "互相争吵",
       "D": "互相拆台"
@@ -330,7 +315,7 @@
     ]
   },
   {
-    "id": "primary_1_3_23",
+    "id": "primary_1_3_22",
     "grade": "primary_1_3",
     "type": "single",
     "question": "少先队的队歌名字是？",
@@ -345,7 +330,7 @@
     ]
   },
   {
-    "id": "primary_1_3_24",
+    "id": "primary_1_3_23",
     "grade": "primary_1_3",
     "type": "single",
     "question": "学习红色故事能让我们明白？",
@@ -360,7 +345,7 @@
     ]
   },
   {
-    "id": "primary_1_3_25",
+    "id": "primary_1_3_24",
     "grade": "primary_1_3",
     "type": "single",
     "question": "革命烈士为国家献出了什么？",
@@ -375,7 +360,7 @@
     ]
   },
   {
-    "id": "primary_1_3_26",
+    "id": "primary_1_3_25",
     "grade": "primary_1_3",
     "type": "single",
     "question": "国旗上的大五角星代表什么？",
@@ -390,7 +375,7 @@
     ]
   },
   {
-    "id": "primary_1_3_27",
+    "id": "primary_1_3_26",
     "grade": "primary_1_3",
     "type": "single",
     "question": "红色文化不包括以下哪项？",
@@ -405,7 +390,7 @@
     ]
   },
   {
-    "id": "primary_1_3_28",
+    "id": "primary_1_3_27",
     "grade": "primary_1_3",
     "type": "single",
     "question": "我们在唱国歌时应该？",
@@ -420,7 +405,7 @@
     ]
   },
   {
-    "id": "primary_1_3_29",
+    "id": "primary_1_3_28",
     "grade": "primary_1_3",
     "type": "single",
     "question": "少先队队员的标志是？",
@@ -435,7 +420,7 @@
     ]
   },
   {
-    "id": "primary_1_3_30",
+    "id": "primary_1_3_29",
     "grade": "primary_1_3",
     "type": "single",
     "question": "爱国就要做到？",
@@ -450,7 +435,7 @@
     ]
   },
   {
-    "id": "primary_1_3_31",
+    "id": "primary_1_3_30",
     "grade": "primary_1_3",
     "type": "single",
     "question": "红色精神是中华民族的什么？",
@@ -465,7 +450,7 @@
     ]
   },
   {
-    "id": "primary_1_3_32",
+    "id": "primary_1_3_31",
     "grade": "primary_1_3",
     "type": "single",
     "question": "我们应该怎样向革命先辈致敬？",
@@ -480,7 +465,7 @@
     ]
   },
   {
-    "id": "primary_1_3_33",
+    "id": "primary_1_3_32",
     "grade": "primary_1_3",
     "type": "single",
     "question": "革命先辈的奋斗精神值得我们？",
@@ -495,7 +480,7 @@
     ]
   },
   {
-    "id": "primary_1_3_34",
+    "id": "primary_1_3_33",
     "grade": "primary_1_3",
     "type": "single",
     "question": "我们学习红色文化的途径不包括？",
@@ -510,7 +495,7 @@
     ]
   },
   {
-    "id": "primary_1_3_35",
+    "id": "primary_1_3_34",
     "grade": "primary_1_3",
     "type": "single",
     "question": "少先队的口号不包括？",
@@ -525,7 +510,7 @@
     ]
   },
   {
-    "id": "primary_1_3_36",
+    "id": "primary_1_3_35",
     "grade": "primary_1_3",
     "type": "single",
     "question": "红色精神中的 “勇敢” 指的是？",
@@ -540,7 +525,7 @@
     ]
   },
   {
-    "id": "primary_1_3_37",
+    "id": "primary_1_3_36",
     "grade": "primary_1_3",
     "type": "single",
     "question": "我们要铭记革命烈士的什么？",
@@ -555,7 +540,7 @@
     ]
   },
   {
-    "id": "primary_1_3_38",
+    "id": "primary_1_3_37",
     "grade": "primary_1_3",
     "type": "single",
     "question": "国旗在什么场合会升起？",
@@ -570,7 +555,7 @@
     ]
   },
   {
-    "id": "primary_1_3_39",
+    "id": "primary_1_3_38",
     "grade": "primary_1_3",
     "type": "single",
     "question": "少先队队员应该遵守的纪律是？",
@@ -585,7 +570,7 @@
     ]
   },
   {
-    "id": "primary_1_3_40",
+    "id": "primary_1_3_39",
     "grade": "primary_1_3",
     "type": "single",
     "question": "革命故事中的主人公大多具有什么品质？",
@@ -600,7 +585,7 @@
     ]
   },
   {
-    "id": "primary_1_3_41",
+    "id": "primary_1_3_40",
     "grade": "primary_1_3",
     "type": "single",
     "question": "红色精神不会让我们变得？",
@@ -615,7 +600,7 @@
     ]
   },
   {
-    "id": "primary_1_3_42",
+    "id": "primary_1_3_41",
     "grade": "primary_1_3",
     "type": "single",
     "question": "我们在参观革命纪念馆时应该？",
@@ -630,27 +615,12 @@
     ]
   },
   {
-    "id": "primary_1_3_43",
+    "id": "primary_1_3_42",
     "grade": "primary_1_3",
     "type": "single",
     "question": "少先队队员在参加活动时应该？",
     "options": {
       "A": "随意缺席",
-      "B": "积极参与，遵守纪律",
-      "C": "打闹玩耍",
-      "D": "睡觉偷懒"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": "primary_1_3_44",
-    "grade": "primary_1_3",
-    "type": "single",
-    "question": "革命先辈在艰苦环境中依然坚持奋斗，是因为他们有？",
-    "options": {
-      "A": "好吃的食物",
       "B": "坚定的理想信念",
       "C": "好玩的玩具",
       "D": "舒适的住所"
@@ -660,7 +630,7 @@
     ]
   },
   {
-    "id": "primary_1_3_45",
+    "id": "primary_1_3_43",
     "grade": "primary_1_3",
     "type": "single",
     "question": "国歌的作词者是？",
@@ -675,7 +645,7 @@
     ]
   },
   {
-    "id": "primary_1_3_46",
+    "id": "primary_1_3_44",
     "grade": "primary_1_3",
     "type": "single",
     "question": "我们应该怎样传承红色精神？",
@@ -690,7 +660,7 @@
     ]
   },
   {
-    "id": "primary_1_3_47",
+    "id": "primary_1_3_45",
     "grade": "primary_1_3",
     "type": "single",
     "question": "红色精神中的 “坚强” 指的是？",
@@ -705,7 +675,7 @@
     ]
   },
   {
-    "id": "primary_1_3_48",
+    "id": "primary_1_3_46",
     "grade": "primary_1_3",
     "type": "single",
     "question": "国旗的正确挂法是？",
@@ -720,7 +690,7 @@
     ]
   },
   {
-    "id": "primary_1_3_49",
+    "id": "primary_1_3_47",
     "grade": "primary_1_3",
     "type": "single",
     "question": "学习红色文化能让我们更加？",
@@ -735,7 +705,7 @@
     ]
   },
   {
-    "id": "primary_1_3_50",
+    "id": "primary_1_3_48",
     "grade": "primary_1_3",
     "type": "single",
     "question": "烈士纪念日是每年的哪一天？",
@@ -750,7 +720,7 @@
     ]
   },
   {
-    "id": "primary_1_3_51",
+    "id": "primary_1_3_49",
     "grade": "primary_1_3",
     "type": "single",
     "question": "黄继光在战斗中做出了什么贡献？",
@@ -765,7 +735,7 @@
     ]
   },
   {
-    "id": "primary_1_3_52",
+    "id": "primary_1_3_50",
     "grade": "primary_1_3",
     "type": "single",
     "question": "小兵张嘎的故事发生在什么时期？",
@@ -780,7 +750,7 @@
     ]
   },
   {
-    "id": "primary_1_3_53",
+    "id": "primary_1_3_51",
     "grade": "primary_1_3",
     "type": "single",
     "question": "王二小的英雄事迹是？",
@@ -795,7 +765,7 @@
     ]
   },
   {
-    "id": "primary_1_3_54",
+    "id": "primary_1_3_52",
     "grade": "primary_1_3",
     "type": "single",
     "question": "邱少云在潜伏任务中，为了什么而牺牲？",
@@ -810,7 +780,7 @@
     ]
   },
   {
-    "id": "primary_1_3_55",
+    "id": "primary_1_3_53",
     "grade": "primary_1_3",
     "type": "single",
     "question": "钱学森爷爷主要贡献在什么领域？",
@@ -825,27 +795,12 @@
     ]
   },
   {
-    "id": "primary_1_3_56",
+    "id": "primary_1_3_54",
     "grade": "primary_1_3",
     "type": "single",
     "question": "王二小是哪个地区的少年英雄？",
     "options": {
       "A": "河北涞源",
-      "B": "陕西延安",
-      "C": "山东济南",
-      "D": "河南郑州"
-    },
-    "answer": [
-      "A"
-    ]
-  },
-  {
-    "id": "primary_1_3_57",
-    "grade": "primary_1_3",
-    "type": "single",
-    "question": "邱少云在什么战役中牺牲？",
-    "options": {
-      "A": "上甘岭战役",
       "B": "平津战役",
       "C": "辽沈战役",
       "D": "淮海战役"
@@ -855,7 +810,7 @@
     ]
   },
   {
-    "id": "primary_1_3_58",
+    "id": "primary_1_3_55",
     "grade": "primary_1_3",
     "type": "single",
     "question": "狼牙山五壮士跳崖后，有几人幸存？",
@@ -870,7 +825,7 @@
     ]
   },
   {
-    "id": "primary_1_3_59",
+    "id": "primary_1_3_56",
     "grade": "primary_1_3",
     "type": "single",
     "question": "钱学森爷爷放弃国外优厚待遇，回到祖国是为了？",
@@ -885,7 +840,7 @@
     ]
   },
   {
-    "id": "primary_1_3_60",
+    "id": "primary_1_3_57",
     "grade": "primary_1_3",
     "type": "single",
     "question": "雷锋叔叔的日记主要记录了什么？",
@@ -900,7 +855,7 @@
     ]
   },
   {
-    "id": "primary_1_3_61",
+    "id": "primary_1_3_58",
     "grade": "primary_1_3",
     "type": "single",
     "question": "董存瑞牺牲的地点是？",
@@ -915,7 +870,7 @@
     ]
   },
   {
-    "id": "primary_1_3_62",
+    "id": "primary_1_3_59",
     "grade": "primary_1_3",
     "type": "single",
     "question": "黄继光所在的部队是？",
@@ -930,7 +885,7 @@
     ]
   },
   {
-    "id": "primary_1_3_63",
+    "id": "primary_1_3_60",
     "grade": "primary_1_3",
     "type": "single",
     "question": "刘胡兰从事的革命工作是？",
@@ -945,7 +900,7 @@
     ]
   },
   {
-    "id": "primary_1_3_64",
+    "id": "primary_1_3_61",
     "grade": "primary_1_3",
     "type": "single",
     "question": "小兵张嘎初期加入了什么组织？",
@@ -960,7 +915,7 @@
     ]
   },
   {
-    "id": "primary_1_3_65",
+    "id": "primary_1_3_62",
     "grade": "primary_1_3",
     "type": "single",
     "question": "小英雄雨来为了保护谁而与敌人斗争？",
@@ -975,7 +930,7 @@
     ]
   },
   {
-    "id": "primary_1_3_66",
+    "id": "primary_1_3_63",
     "grade": "primary_1_3",
     "type": "single",
     "question": "钱学森爷爷被誉为 “中国航天之父” 和什么？",
@@ -990,7 +945,7 @@
     ]
   },
   {
-    "id": "primary_1_3_67",
+    "id": "primary_1_3_64",
     "grade": "primary_1_3",
     "type": "single",
     "question": "雷锋叔叔帮助别人时，心里会感到？",
@@ -1005,7 +960,7 @@
     ]
   },
   {
-    "id": "primary_1_3_68",
+    "id": "primary_1_3_65",
     "grade": "primary_1_3",
     "type": "single",
     "question": "董存瑞炸碉堡的目的是？",
@@ -1020,7 +975,7 @@
     ]
   },
   {
-    "id": "primary_1_3_69",
+    "id": "primary_1_3_66",
     "grade": "primary_1_3",
     "type": "single",
     "question": "黄继光为什么要堵枪眼？",
@@ -1035,7 +990,7 @@
     ]
   },
   {
-    "id": "primary_1_3_70",
+    "id": "primary_1_3_67",
     "grade": "primary_1_3",
     "type": "single",
     "question": "刘胡兰面对敌人的铡刀，没有？",
@@ -1050,7 +1005,7 @@
     ]
   },
   {
-    "id": "primary_1_3_71",
+    "id": "primary_1_3_68",
     "grade": "primary_1_3",
     "type": "single",
     "question": "小英雄雨来的故事告诉我们要？",
@@ -1065,7 +1020,7 @@
     ]
   },
   {
-    "id": "primary_1_3_72",
+    "id": "primary_1_3_69",
     "grade": "primary_1_3",
     "type": "single",
     "question": "邱少云的英雄事迹体现了什么品质？",
@@ -1080,7 +1035,7 @@
     ]
   },
   {
-    "id": "primary_1_3_73",
+    "id": "primary_1_3_70",
     "grade": "primary_1_3",
     "type": "single",
     "question": "狼牙山五壮士的英雄行为是为了？",
@@ -1095,7 +1050,7 @@
     ]
   },
   {
-    "id": "primary_1_3_74",
+    "id": "primary_1_3_71",
     "grade": "primary_1_3",
     "type": "single",
     "question": "钱学森爷爷回国后，主持研制了什么？",
@@ -1110,7 +1065,7 @@
     ]
   },
   {
-    "id": "primary_1_3_75",
+    "id": "primary_1_3_72",
     "grade": "primary_1_3",
     "type": "single",
     "question": "雷锋叔叔的座右铭是？",
@@ -1125,7 +1080,7 @@
     ]
   },
   {
-    "id": "primary_1_3_76",
+    "id": "primary_1_3_73",
     "grade": "primary_1_3",
     "type": "single",
     "question": "董存瑞牺牲时的口号是？",
@@ -1140,7 +1095,7 @@
     ]
   },
   {
-    "id": "primary_1_3_77",
+    "id": "primary_1_3_74",
     "grade": "primary_1_3",
     "type": "single",
     "question": "黄继光的英雄事迹发生在什么战争中？",
@@ -1155,27 +1110,12 @@
     ]
   },
   {
-    "id": "primary_1_3_78",
+    "id": "primary_1_3_75",
     "grade": "primary_1_3",
     "type": "single",
     "question": "刘胡兰是哪个省的英雄？",
     "options": {
       "A": "山西省",
-      "B": "陕西省",
-      "C": "河北省",
-      "D": "山东省"
-    },
-    "answer": [
-      "A"
-    ]
-  },
-  {
-    "id": "primary_1_3_79",
-    "grade": "primary_1_3",
-    "type": "single",
-    "question": "小兵张嘎的故事发生在哪个省？",
-    "options": {
-      "A": "河北省",
       "B": "山东省",
       "C": "河南省",
       "D": "辽宁省"
@@ -1185,7 +1125,7 @@
     ]
   },
   {
-    "id": "primary_1_3_80",
+    "id": "primary_1_3_76",
     "grade": "primary_1_3",
     "type": "single",
     "question": "小英雄雨来生活在什么河边？",
@@ -1200,7 +1140,7 @@
     ]
   },
   {
-    "id": "primary_1_3_81",
+    "id": "primary_1_3_77",
     "grade": "primary_1_3",
     "type": "single",
     "question": "王二小是什么人？",
@@ -1215,7 +1155,7 @@
     ]
   },
   {
-    "id": "primary_1_3_82",
+    "id": "primary_1_3_78",
     "grade": "primary_1_3",
     "type": "single",
     "question": "邱少云牺牲时，没有做什么？",
@@ -1230,7 +1170,7 @@
     ]
   },
   {
-    "id": "primary_1_3_83",
+    "id": "primary_1_3_79",
     "grade": "primary_1_3",
     "type": "single",
     "question": "狼牙山五壮士跳崖的狼牙山位于哪个省？",
@@ -1245,7 +1185,7 @@
     ]
   },
   {
-    "id": "primary_1_3_84",
+    "id": "primary_1_3_80",
     "grade": "primary_1_3",
     "type": "single",
     "question": "董存瑞是哪个时期的英雄？",
@@ -1260,7 +1200,7 @@
     ]
   },
   {
-    "id": "primary_1_3_85",
+    "id": "primary_1_3_81",
     "grade": "primary_1_3",
     "type": "single",
     "question": "黄继光的家乡在哪个省？",
@@ -1275,7 +1215,7 @@
     ]
   },
   {
-    "id": "primary_1_3_86",
+    "id": "primary_1_3_82",
     "grade": "primary_1_3",
     "type": "single",
     "question": "刘胡兰加入了什么组织？",
@@ -1290,7 +1230,7 @@
     ]
   },
   {
-    "id": "primary_1_3_87",
+    "id": "primary_1_3_83",
     "grade": "primary_1_3",
     "type": "single",
     "question": "王二小是被敌人怎样杀害的？",
@@ -1305,7 +1245,7 @@
     ]
   },
   {
-    "id": "primary_1_3_88",
+    "id": "primary_1_3_84",
     "grade": "primary_1_3",
     "type": "single",
     "question": "邱少云牺牲时年仅多少岁？",
@@ -1320,7 +1260,7 @@
     ]
   },
   {
-    "id": "primary_1_3_89",
+    "id": "primary_1_3_85",
     "grade": "primary_1_3",
     "type": "single",
     "question": "狼牙山五壮士中，谁是班长？",
@@ -1335,7 +1275,7 @@
     ]
   },
   {
-    "id": "primary_1_3_90",
+    "id": "primary_1_3_86",
     "grade": "primary_1_3",
     "type": "single",
     "question": "钱学森爷爷回国后，担任过什么职务？",
@@ -1350,7 +1290,7 @@
     ]
   },
   {
-    "id": "primary_1_3_91",
+    "id": "primary_1_3_87",
     "grade": "primary_1_3",
     "type": "single",
     "question": "雷锋叔叔帮助过的人不包括？",
@@ -1365,7 +1305,7 @@
     ]
   },
   {
-    "id": "primary_1_3_92",
+    "id": "primary_1_3_88",
     "grade": "primary_1_3",
     "type": "single",
     "question": "黄继光堵枪眼时，心里想着什么？",
@@ -1380,7 +1320,7 @@
     ]
   },
   {
-    "id": "primary_1_3_93",
+    "id": "primary_1_3_89",
     "grade": "primary_1_3",
     "type": "single",
     "question": "刘胡兰为什么不向敌人屈服？",
@@ -1395,7 +1335,7 @@
     ]
   },
   {
-    "id": "primary_1_3_94",
+    "id": "primary_1_3_90",
     "grade": "primary_1_3",
     "type": "single",
     "question": "王二小为什么要把敌人引入埋伏圈？",
@@ -1410,7 +1350,7 @@
     ]
   },
   {
-    "id": "primary_1_3_95",
+    "id": "primary_1_3_91",
     "grade": "primary_1_3",
     "type": "single",
     "question": "邱少云的英雄事迹发生在什么年份？",
@@ -1425,7 +1365,7 @@
     ]
   },
   {
-    "id": "primary_1_3_96",
+    "id": "primary_1_3_92",
     "grade": "primary_1_3",
     "type": "single",
     "question": "钱学森爷爷的主要贡献不包括？",
@@ -1440,7 +1380,7 @@
     ]
   },
   {
-    "id": "primary_1_3_97",
+    "id": "primary_1_3_93",
     "grade": "primary_1_3",
     "type": "single",
     "question": "雷锋叔叔的生日是哪一天？",
@@ -1455,7 +1395,7 @@
     ]
   },
   {
-    "id": "primary_1_3_98",
+    "id": "primary_1_3_94",
     "grade": "primary_1_3",
     "type": "single",
     "question": "黄继光被授予什么荣誉称号？",
@@ -1470,7 +1410,7 @@
     ]
   },
   {
-    "id": "primary_1_3_99",
+    "id": "primary_1_3_95",
     "grade": "primary_1_3",
     "type": "single",
     "question": "刘胡兰牺牲的地点是？",
@@ -1485,7 +1425,7 @@
     ]
   },
   {
-    "id": "primary_1_3_100",
+    "id": "primary_1_3_96",
     "grade": "primary_1_3",
     "type": "single",
     "question": "小兵张嘎的故事是根据什么改编的？",
@@ -1493,14 +1433,14 @@
       "A": "真实事件",
       "B": "童话故事",
       "C": "科幻故事",
-      "D": "神话故事"
+      "D": "神话故事 三、文艺作品"
     },
     "answer": [
       "A"
     ]
   },
   {
-    "id": "primary_1_3_101",
+    "id": "primary_1_3_97",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《闪闪的红星》是一部什么类型的作品？",
@@ -1515,7 +1455,7 @@
     ]
   },
   {
-    "id": "primary_1_3_102",
+    "id": "primary_1_3_98",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《没有共产党就没有新中国》是一首什么歌曲？",
@@ -1530,7 +1470,7 @@
     ]
   },
   {
-    "id": "primary_1_3_103",
+    "id": "primary_1_3_99",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《地道战》讲述的是哪个时期的故事？",
@@ -1545,37 +1485,22 @@
     ]
   },
   {
-    "id": "primary_1_3_104",
+    "id": "primary_1_3_100",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小兵张嘎》的原著作者是谁？",
     "options": {
       "A": "徐光耀",
-      "B": "老舍",
-      "C": "鲁迅",
-      "D": "巴金"
+      "B": "《闪闪的红星》",
+      "C": "《小兵张嘎》",
+      "D": "《英雄儿女》"
     },
     "answer": [
       "A"
     ]
   },
   {
-    "id": "primary_1_3_105",
-    "grade": "primary_1_3",
-    "type": "single",
-    "question": "《红星歌》是哪部电影的插曲？",
-    "options": {
-      "A": "《地道战》",
-      "B": "《闪闪的红星》",
-      "C": "《小兵张嘎》",
-      "D": "《英雄儿女》"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": "primary_1_3_106",
+    "id": "primary_1_3_101",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小英雄雨来》的作者是？",
@@ -1590,7 +1515,7 @@
     ]
   },
   {
-    "id": "primary_1_3_107",
+    "id": "primary_1_3_102",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《东方红》这首歌主要歌颂的是？",
@@ -1605,7 +1530,7 @@
     ]
   },
   {
-    "id": "primary_1_3_108",
+    "id": "primary_1_3_103",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《英雄儿女》讲述的是哪场战争的故事？",
@@ -1620,7 +1545,7 @@
     ]
   },
   {
-    "id": "primary_1_3_109",
+    "id": "primary_1_3_104",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红色娘子军》是一部什么类型的作品？",
@@ -1635,7 +1560,7 @@
     ]
   },
   {
-    "id": "primary_1_3_110",
+    "id": "primary_1_3_105",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《闪闪的红星》中的主角叫什么名字？",
@@ -1650,7 +1575,7 @@
     ]
   },
   {
-    "id": "primary_1_3_111",
+    "id": "primary_1_3_106",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《地道战》中，村民们用地道来做什么？",
@@ -1665,7 +1590,7 @@
     ]
   },
   {
-    "id": "primary_1_3_112",
+    "id": "primary_1_3_107",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《歌唱祖国》的作曲者是？",
@@ -1680,7 +1605,7 @@
     ]
   },
   {
-    "id": "primary_1_3_113",
+    "id": "primary_1_3_108",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红星歌》的歌词中 “红星闪闪放光彩” 下一句是？",
@@ -1695,7 +1620,7 @@
     ]
   },
   {
-    "id": "primary_1_3_114",
+    "id": "primary_1_3_109",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小英雄雨来》中，雨来为了保护什么而与敌人斗争？",
@@ -1710,7 +1635,7 @@
     ]
   },
   {
-    "id": "primary_1_3_115",
+    "id": "primary_1_3_110",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《英雄儿女》中的主角是谁？",
@@ -1725,7 +1650,7 @@
     ]
   },
   {
-    "id": "primary_1_3_116",
+    "id": "primary_1_3_111",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红色娘子军》的故事发生在哪个省？",
@@ -1740,7 +1665,7 @@
     ]
   },
   {
-    "id": "primary_1_3_117",
+    "id": "primary_1_3_112",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《没有共产党就没有新中国》创作于什么时期？",
@@ -1755,7 +1680,7 @@
     ]
   },
   {
-    "id": "primary_1_3_118",
+    "id": "primary_1_3_113",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《地道战》中，地道的特点不包括？",
@@ -1770,7 +1695,7 @@
     ]
   },
   {
-    "id": "primary_1_3_119",
+    "id": "primary_1_3_114",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小兵张嘎》中，嘎子最想得到的武器是？",
@@ -1785,7 +1710,7 @@
     ]
   },
   {
-    "id": "primary_1_3_120",
+    "id": "primary_1_3_115",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红星歌》是为了歌颂什么？",
@@ -1800,7 +1725,7 @@
     ]
   },
   {
-    "id": "primary_1_3_121",
+    "id": "primary_1_3_116",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《东方红》的作词者是？",
@@ -1815,22 +1740,21 @@
     ]
   },
   {
-    "id": "primary_1_3_122",
+    "id": "primary_1_3_117",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《英雄儿女》中，王成的经典台词是？",
     "options": {
       "A": "为了胜利，向我开炮！",
       "B": "打倒日本帝国主义！",
-      "C": "中国共产党万岁！",
-      "D": "人民万岁！"
+      "C": "中国共产党万岁！D. 人民万岁！"
     },
     "answer": [
       "A"
     ]
   },
   {
-    "id": "primary_1_3_123",
+    "id": "primary_1_3_118",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红色娘子军》中的女主角叫什么名字？",
@@ -1845,7 +1769,7 @@
     ]
   },
   {
-    "id": "primary_1_3_124",
+    "id": "primary_1_3_119",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《歌唱祖国》的歌词中，“越过高山，越过平原” 下一句是？",
@@ -1860,7 +1784,7 @@
     ]
   },
   {
-    "id": "primary_1_3_125",
+    "id": "primary_1_3_120",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小兵张嘎》中，嘎子是怎样加入八路军的？",
@@ -1875,7 +1799,7 @@
     ]
   },
   {
-    "id": "primary_1_3_126",
+    "id": "primary_1_3_121",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红星歌》的作曲者是？",
@@ -1890,7 +1814,7 @@
     ]
   },
   {
-    "id": "primary_1_3_127",
+    "id": "primary_1_3_122",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《英雄儿女》的导演是谁？",
@@ -1905,7 +1829,7 @@
     ]
   },
   {
-    "id": "primary_1_3_128",
+    "id": "primary_1_3_123",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《闪闪的红星》中，潘冬子用什么方法给红军送盐？",
@@ -1920,7 +1844,7 @@
     ]
   },
   {
-    "id": "primary_1_3_129",
+    "id": "primary_1_3_124",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《没有共产党就没有新中国》最初的歌名是？",
@@ -1935,7 +1859,7 @@
     ]
   },
   {
-    "id": "primary_1_3_130",
+    "id": "primary_1_3_125",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《地道战》中，村民们发明的地道战术不包括？",
@@ -1950,7 +1874,7 @@
     ]
   },
   {
-    "id": "primary_1_3_131",
+    "id": "primary_1_3_126",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《歌唱祖国》是一首几拍子的歌曲？",
@@ -1965,7 +1889,7 @@
     ]
   },
   {
-    "id": "primary_1_3_132",
+    "id": "primary_1_3_127",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红星歌》的演唱形式不包括？",
@@ -1980,7 +1904,7 @@
     ]
   },
   {
-    "id": "primary_1_3_133",
+    "id": "primary_1_3_128",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小英雄雨来》中，雨来的妈妈是做什么的？",
@@ -1995,7 +1919,7 @@
     ]
   },
   {
-    "id": "primary_1_3_134",
+    "id": "primary_1_3_129",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《英雄儿女》中，王芳是做什么的？",
@@ -2010,7 +1934,7 @@
     ]
   },
   {
-    "id": "primary_1_3_135",
+    "id": "primary_1_3_130",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《闪闪的红星》中，潘冬子最恨的敌人是谁？",
@@ -2025,7 +1949,7 @@
     ]
   },
   {
-    "id": "primary_1_3_136",
+    "id": "primary_1_3_131",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《没有共产党就没有新中国》创作的地点是？",
@@ -2040,7 +1964,7 @@
     ]
   },
   {
-    "id": "primary_1_3_137",
+    "id": "primary_1_3_132",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《地道战》中，地道与什么相连？",
@@ -2055,7 +1979,7 @@
     ]
   },
   {
-    "id": "primary_1_3_138",
+    "id": "primary_1_3_133",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《歌唱祖国》的歌词中，“我们爱和平，我们爱家乡” 下一句是？",
@@ -2070,7 +1994,7 @@
     ]
   },
   {
-    "id": "primary_1_3_139",
+    "id": "primary_1_3_134",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小兵张嘎》中，嘎子从敌人那里缴获了什么武器？",
@@ -2085,7 +2009,7 @@
     ]
   },
   {
-    "id": "primary_1_3_140",
+    "id": "primary_1_3_135",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《东方红》的演唱形式主要是？",
@@ -2100,7 +2024,7 @@
     ]
   },
   {
-    "id": "primary_1_3_141",
+    "id": "primary_1_3_136",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《英雄儿女》中,王成牺牲后.王芳为他写了一首什么歌？",
@@ -2115,7 +2039,7 @@
     ]
   },
   {
-    "id": "primary_1_3_142",
+    "id": "primary_1_3_137",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《地道战》中，敌人用什么方法破坏地道？",
@@ -2130,7 +2054,7 @@
     ]
   },
   {
-    "id": "primary_1_3_143",
+    "id": "primary_1_3_138",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《歌唱祖国》的歌词中,“五星红旗迎风飘扬” 下一句是？",
@@ -2145,7 +2069,7 @@
     ]
   },
   {
-    "id": "primary_1_3_144",
+    "id": "primary_1_3_139",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红星歌》的歌词中，“革命代代如潮涌” 下一句是？",
@@ -2160,7 +2084,7 @@
     ]
   },
   {
-    "id": "primary_1_3_145",
+    "id": "primary_1_3_140",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小英雄雨来》中，雨来最后是怎样逃脱敌人魔爪的？",
@@ -2175,7 +2099,7 @@
     ]
   },
   {
-    "id": "primary_1_3_146",
+    "id": "primary_1_3_141",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《东方红》的创作时间是？",
@@ -2190,7 +2114,7 @@
     ]
   },
   {
-    "id": "primary_1_3_147",
+    "id": "primary_1_3_142",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《红色娘子军》中，红色娘子军成立的目的是？",
@@ -2205,7 +2129,7 @@
     ]
   },
   {
-    "id": "primary_1_3_148",
+    "id": "primary_1_3_143",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《闪闪的红星》这部作品的主题是什么？",
@@ -2220,10 +2144,10 @@
     ]
   },
   {
-    "id": "primary_1_3_149",
+    "id": "primary_1_3_144",
     "grade": "primary_1_3",
     "type": "single",
-    "question": "《地道战》中，村民们在地道里设置了什么来对付敌人？",
+    "question": "《地道战》中，村民们在地道里设置了什么来对付敌人 ？",
     "options": {
       "A": "陷阱、射击孔",
       "B": "沙发、电视",
@@ -2235,7 +2159,7 @@
     ]
   },
   {
-    "id": "primary_1_3_150",
+    "id": "primary_1_3_145",
     "grade": "primary_1_3",
     "type": "single",
     "question": "《小兵张嘎》这部作品的主题是什么？",
@@ -2250,7 +2174,7 @@
     ]
   },
   {
-    "id": "primary_1_3_151",
+    "id": "primary_1_3_146",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中华人民共和国成立的时间是哪一年？",
@@ -2265,7 +2189,7 @@
     ]
   },
   {
-    "id": "primary_1_3_152",
+    "id": "primary_1_3_147",
     "grade": "primary_1_3",
     "type": "single",
     "question": "国庆节是为了纪念什么事件？",
@@ -2280,7 +2204,7 @@
     ]
   },
   {
-    "id": "primary_1_3_153",
+    "id": "primary_1_3_148",
     "grade": "primary_1_3",
     "type": "single",
     "question": "长征开始于哪一年？",
@@ -2295,7 +2219,7 @@
     ]
   },
   {
-    "id": "primary_1_3_154",
+    "id": "primary_1_3_149",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗日战争胜利是哪一年？",
@@ -2310,7 +2234,7 @@
     ]
   },
   {
-    "id": "primary_1_3_155",
+    "id": "primary_1_3_150",
     "grade": "primary_1_3",
     "type": "single",
     "question": "解放战争的起止时间是？",
@@ -2325,7 +2249,7 @@
     ]
   },
   {
-    "id": "primary_1_3_156",
+    "id": "primary_1_3_151",
     "grade": "primary_1_3",
     "type": "single",
     "question": "香港回归祖国的时间是？",
@@ -2340,7 +2264,7 @@
     ]
   },
   {
-    "id": "primary_1_3_157",
+    "id": "primary_1_3_152",
     "grade": "primary_1_3",
     "type": "single",
     "question": "澳门回归祖国的时间是？",
@@ -2355,7 +2279,7 @@
     ]
   },
   {
-    "id": "primary_1_3_158",
+    "id": "primary_1_3_153",
     "grade": "primary_1_3",
     "type": "single",
     "question": "改革开放开始于哪一年？",
@@ -2370,7 +2294,7 @@
     ]
   },
   {
-    "id": "primary_1_3_159",
+    "id": "primary_1_3_154",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中国共产党成立于哪一年？",
@@ -2385,7 +2309,7 @@
     ]
   },
   {
-    "id": "primary_1_3_160",
+    "id": "primary_1_3_155",
     "grade": "primary_1_3",
     "type": "single",
     "question": "长征胜利结束的时间是？",
@@ -2400,7 +2324,7 @@
     ]
   },
   {
-    "id": "primary_1_3_161",
+    "id": "primary_1_3_156",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中国全面抗击日本侵略战争的起点是？",
@@ -2415,7 +2339,7 @@
     ]
   },
   {
-    "id": "primary_1_3_162",
+    "id": "primary_1_3_157",
     "grade": "primary_1_3",
     "type": "single",
     "question": "解放战争中，三大战役不包括？",
@@ -2430,7 +2354,7 @@
     ]
   },
   {
-    "id": "primary_1_3_163",
+    "id": "primary_1_3_158",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗美援朝战争结束的时间是？",
@@ -2445,7 +2369,7 @@
     ]
   },
   {
-    "id": "primary_1_3_164",
+    "id": "primary_1_3_159",
     "grade": "primary_1_3",
     "type": "single",
     "question": "改革开放的总设计师是谁？",
@@ -2460,27 +2384,12 @@
     ]
   },
   {
-    "id": "primary_1_3_165",
+    "id": "primary_1_3_160",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中国共产党第一次全国代表大会召开的地点是？",
     "options": {
       "A": "北京",
-      "B": "上海、嘉兴",
-      "C": "广州",
-      "D": "武汉"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": "primary_1_3_166",
-    "grade": "primary_1_3",
-    "type": "single",
-    "question": "中华人民共和国的国旗是在什么会议上确定的？",
-    "options": {
-      "A": "中共一大",
       "B": "中国人民政治协商会议第一届全体会议",
       "C": "中共七大",
       "D": "中共八大"
@@ -2490,7 +2399,7 @@
     ]
   },
   {
-    "id": "primary_1_3_167",
+    "id": "primary_1_3_161",
     "grade": "primary_1_3",
     "type": "single",
     "question": "长征中，红军四渡赤水的核心决策者是？",
@@ -2505,7 +2414,7 @@
     ]
   },
   {
-    "id": "primary_1_3_168",
+    "id": "primary_1_3_162",
     "grade": "primary_1_3",
     "type": "single",
     "question": "解放战争中，渡江战役解放的第一个城市是？",
@@ -2520,7 +2429,7 @@
     ]
   },
   {
-    "id": "primary_1_3_169",
+    "id": "primary_1_3_163",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗美援朝战争中，中国人民志愿军首任司令员是？",
@@ -2535,7 +2444,7 @@
     ]
   },
   {
-    "id": "primary_1_3_170",
+    "id": "primary_1_3_164",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中华人民共和国成立后，第一部宪法颁布于哪一年？",
@@ -2550,7 +2459,7 @@
     ]
   },
   {
-    "id": "primary_1_3_171",
+    "id": "primary_1_3_165",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗日战争中，百团大战的指挥者是？",
@@ -2565,7 +2474,7 @@
     ]
   },
   {
-    "id": "primary_1_3_172",
+    "id": "primary_1_3_166",
     "grade": "primary_1_3",
     "type": "single",
     "question": "解放战争中，辽沈战役的主要战场在？",
@@ -2580,7 +2489,7 @@
     ]
   },
   {
-    "id": "primary_1_3_173",
+    "id": "primary_1_3_167",
     "grade": "primary_1_3",
     "type": "single",
     "question": "改革开放的标志是？",
@@ -2595,7 +2504,7 @@
     ]
   },
   {
-    "id": "primary_1_3_174",
+    "id": "primary_1_3_168",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中华人民共和国成立后，我国的国体是？",
@@ -2610,7 +2519,7 @@
     ]
   },
   {
-    "id": "primary_1_3_175",
+    "id": "primary_1_3_169",
     "grade": "primary_1_3",
     "type": "single",
     "question": "长征中，红军渡过的大河不包括？",
@@ -2625,7 +2534,7 @@
     ]
   },
   {
-    "id": "primary_1_3_176",
+    "id": "primary_1_3_170",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗日战争中，台儿庄战役的指挥者是？",
@@ -2640,7 +2549,7 @@
     ]
   },
   {
-    "id": "primary_1_3_177",
+    "id": "primary_1_3_171",
     "grade": "primary_1_3",
     "type": "single",
     "question": "解放战争中，淮海战役的指挥者不包括？",
@@ -2655,7 +2564,7 @@
     ]
   },
   {
-    "id": "primary_1_3_178",
+    "id": "primary_1_3_172",
     "grade": "primary_1_3",
     "type": "single",
     "question": "香港回归祖国后，由谁担任第一任行政长官？",
@@ -2670,7 +2579,7 @@
     ]
   },
   {
-    "id": "primary_1_3_179",
+    "id": "primary_1_3_173",
     "grade": "primary_1_3",
     "type": "single",
     "question": "澳门回归祖国后，由谁担任第一任行政长官？",
@@ -2685,7 +2594,7 @@
     ]
   },
   {
-    "id": "primary_1_3_180",
+    "id": "primary_1_3_174",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中国共产党的最高理想和最终目标是？",
@@ -2700,7 +2609,7 @@
     ]
   },
   {
-    "id": "primary_1_3_181",
+    "id": "primary_1_3_175",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中华人民共和国成立后，我国的政体是？",
@@ -2715,7 +2624,7 @@
     ]
   },
   {
-    "id": "primary_1_3_182",
+    "id": "primary_1_3_176",
     "grade": "primary_1_3",
     "type": "single",
     "question": "长征中，红军召开的具有转折意义的会议是？",
@@ -2730,7 +2639,7 @@
     ]
   },
   {
-    "id": "primary_1_3_183",
+    "id": "primary_1_3_177",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗日战争中，西安事变的和平解决标志着？",
@@ -2745,7 +2654,7 @@
     ]
   },
   {
-    "id": "primary_1_3_184",
+    "id": "primary_1_3_178",
     "grade": "primary_1_3",
     "type": "single",
     "question": "解放战争中，平津战役的结果是？",
@@ -2760,7 +2669,7 @@
     ]
   },
   {
-    "id": "primary_1_3_185",
+    "id": "primary_1_3_179",
     "grade": "primary_1_3",
     "type": "single",
     "question": "改革开放后，我国对外开放的格局是？",
@@ -2775,7 +2684,7 @@
     ]
   },
   {
-    "id": "primary_1_3_186",
+    "id": "primary_1_3_180",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中国共产党成立的纪念日是？",
@@ -2790,27 +2699,12 @@
     ]
   },
   {
-    "id": "primary_1_3_187",
+    "id": "primary_1_3_181",
     "grade": "primary_1_3",
     "type": "single",
     "question": "新中国成立后，我国第一颗原子弹爆炸成功的时间是？",
     "options": {
       "A": "1964 年",
-      "B": "1967 年",
-      "C": "1970 年",
-      "D": "1978 年"
-    },
-    "answer": [
-      "A"
-    ]
-  },
-  {
-    "id": "primary_1_3_188",
-    "grade": "primary_1_3",
-    "type": "single",
-    "question": "抗日战争中，中国共产党领导的抗日根据地的总后方是？",
-    "options": {
-      "A": "延安",
       "B": "北京",
       "C": "上海",
       "D": "广州"
@@ -2820,7 +2714,7 @@
     ]
   },
   {
-    "id": "primary_1_3_189",
+    "id": "primary_1_3_182",
     "grade": "primary_1_3",
     "type": "single",
     "question": "解放战争中，渡江战役的指挥者是?",
@@ -2835,7 +2729,7 @@
     ]
   },
   {
-    "id": "primary_1_3_190",
+    "id": "primary_1_3_183",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗美援朝战争中，志愿军战士邱少云牺牲的地点是？",
@@ -2850,7 +2744,7 @@
     ]
   },
   {
-    "id": "primary_1_3_191",
+    "id": "primary_1_3_184",
     "grade": "primary_1_3",
     "type": "single",
     "question": "香港回归祖国前，被英国占领了多少年？",
@@ -2865,7 +2759,7 @@
     ]
   },
   {
-    "id": "primary_1_3_192",
+    "id": "primary_1_3_185",
     "grade": "primary_1_3",
     "type": "single",
     "question": "澳门回归祖国前，被葡萄牙占领了多少年？",
@@ -2880,7 +2774,7 @@
     ]
   },
   {
-    "id": "primary_1_3_193",
+    "id": "primary_1_3_186",
     "grade": "primary_1_3",
     "type": "single",
     "question": "改革开放后，我国第一颗人造地球卫星 “东方红一号” 发射成功的时 间是？",
@@ -2895,7 +2789,7 @@
     ]
   },
   {
-    "id": "primary_1_3_194",
+    "id": "primary_1_3_187",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中华人民共和国成立后，我国实行的基本经济制度是？",
@@ -2910,7 +2804,7 @@
     ]
   },
   {
-    "id": "primary_1_3_195",
+    "id": "primary_1_3_188",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗日战争中，百团大战开始的时间是？",
@@ -2925,7 +2819,7 @@
     ]
   },
   {
-    "id": "primary_1_3_196",
+    "id": "primary_1_3_189",
     "grade": "primary_1_3",
     "type": "single",
     "question": "解放战争中，辽沈战役的时间是？",
@@ -2940,7 +2834,7 @@
     ]
   },
   {
-    "id": "primary_1_3_197",
+    "id": "primary_1_3_190",
     "grade": "primary_1_3",
     "type": "single",
     "question": "抗美援朝战争中，黄继光牺牲的战役是？",
@@ -2955,7 +2849,7 @@
     ]
   },
   {
-    "id": "primary_1_3_198",
+    "id": "primary_1_3_191",
     "grade": "primary_1_3",
     "type": "single",
     "question": "改革开放后，我国加入世界贸易组织的时间是？",
@@ -2970,7 +2864,7 @@
     ]
   },
   {
-    "id": "primary_1_3_199",
+    "id": "primary_1_3_192",
     "grade": "primary_1_3",
     "type": "single",
     "question": "中国共产党领导的第一次武装起义是？",
@@ -2985,7 +2879,7 @@
     ]
   },
   {
-    "id": "primary_1_3_200",
+    "id": "primary_1_3_193",
     "grade": "primary_1_3",
     "type": "single",
     "question": "长征的胜利具有什么意义？",
