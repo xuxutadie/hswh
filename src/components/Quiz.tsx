@@ -2,16 +2,15 @@ import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { GradeLevel, Question } from '../types';
 import { CheckCircle2, XCircle, AlertCircle, Timer } from 'lucide-react';
-import allQuestions from '../data/parsed_questions.json';
+import parsedQuestions from '../data/parsed_questions.json';
 import p13Questions from '../data/p13_questions.json';
 
 interface Props {
   grade: GradeLevel;
-  onComplete: (score: number, total: number) => void;
+  onComplete: (correctCount: number, total: number, finalScore: number) => void;
 }
 
 const QUIZ_TIME_LIMIT_PER_QUESTION = 30; // 30 seconds per question
-const MAX_QUESTIONS = 1000; // Increased limit to include all questions
 
 // 播放答对音效 - 使用 Web Audio API 生成悦耳的成功音效
 const playCorrectSound = () => {
@@ -86,52 +85,41 @@ export default function Quiz({ grade, onComplete }: Props) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOptions, setSelectedOptions] = useState<string[]>([]);
   const [isSubmitted, setIsSubmitted] = useState(false);
-  const [score, setScore] = useState(0);
+  const [correctCount, setCorrectCount] = useState(0);
   const [timeLeft, setTimeLeft] = useState(0);
   
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
-  const scoreRef = useRef(score);
+  const correctCountRef = useRef(correctCount);
 
   useEffect(() => {
-    scoreRef.current = score;
-  }, [score]);
+    correctCountRef.current = correctCount;
+  }, [correctCount]);
+
+  const completeQuiz = (finalCorrectCount: number, total: number) => {
+    const finalScore = total === 0 ? 0 : Math.round((finalCorrectCount / total) * 100);
+    onComplete(finalCorrectCount, total, finalScore);
+  };
 
   useEffect(() => {
     let finalQuestions: Question[] = [];
     
     if (grade === 'primary_1_3') {
-      // Use the separate 1-3 grade question bank
       const p13 = p13Questions as Question[];
       // Randomly pick 100 questions for practice
-      let shuffled = [...p13].sort(() => Math.random() - 0.5);
+      const shuffled = [...p13].sort(() => Math.random() - 0.5);
       finalQuestions = shuffled.slice(0, Math.min(100, shuffled.length));
-    } else if (grade === 'junior_high') {
-      // For junior high, select 30 multiple choice and 70 single choice
-      const juniorQuestions = (allQuestions as Question[]).filter(q => q.grade === 'junior_high');
-      
-      const singleChoice = juniorQuestions.filter(q => q.type === 'single');
-      const multipleChoice = juniorQuestions.filter(q => q.type === 'multiple');
-      
-      const shuffledSingle = [...singleChoice].sort(() => Math.random() - 0.5);
-      const shuffledMultiple = [...multipleChoice].sort(() => Math.random() - 0.5);
-      
-      const selectedSingle = shuffledSingle.slice(0, Math.min(70, shuffledSingle.length));
-      const selectedMultiple = shuffledMultiple.slice(0, Math.min(30, shuffledMultiple.length));
-      
-      // Combine without shuffling again to keep Single then Multiple order
-      finalQuestions = [...selectedSingle, ...selectedMultiple];
     } else {
-      // For other grades, randomly pick 100 questions
-      const gradeQs = (allQuestions as Question[]).filter(q => q.grade === grade);
-      let shuffled = [...gradeQs].sort(() => Math.random() - 0.5);
-      finalQuestions = shuffled.slice(0, Math.min(100, shuffled.length));
+      finalQuestions = (parsedQuestions as Question[]).filter((q) => q.grade === grade);
     }
 
     if (finalQuestions.length === 0) return;
 
     setGradeQuestions(finalQuestions);
-    // Fixed 15 minutes (900 seconds) for all quizzes
-    setTimeLeft(900);
+    setCurrentIndex(0);
+    setSelectedOptions([]);
+    setIsSubmitted(false);
+    setCorrectCount(0);
+    setTimeLeft(finalQuestions.length * QUIZ_TIME_LIMIT_PER_QUESTION);
   }, [grade]);
 
   useEffect(() => {
@@ -141,8 +129,7 @@ export default function Quiz({ grade, onComplete }: Props) {
       setTimeLeft((prev) => {
         if (prev <= 1) {
           clearInterval(timer);
-          // Time's up, finish the quiz
-          onComplete(scoreRef.current, gradeQuestions.length);
+          completeQuiz(correctCountRef.current, gradeQuestions.length);
           return 0;
         }
         return prev - 1;
@@ -150,7 +137,7 @@ export default function Quiz({ grade, onComplete }: Props) {
     }, 1000);
 
     return () => clearInterval(timer);
-  }, [gradeQuestions.length, onComplete]);
+  }, [gradeQuestions.length]);
 
   // Clean up timeout on unmount
   useEffect(() => {
@@ -167,6 +154,11 @@ export default function Quiz({ grade, onComplete }: Props) {
 
   const currentQuestion = gradeQuestions[currentIndex];
   const isMultiple = currentQuestion.type === 'multiple';
+  const isJudge = currentQuestion.type === 'judge';
+  const answeredCount = currentIndex + (isSubmitted ? 1 : 0);
+  const currentScore = gradeQuestions.length === 0
+    ? 0
+    : Math.round((correctCount / gradeQuestions.length) * 100);
 
   const handleOptionClick = (optionKey: string) => {
     if (isSubmitted) return;
@@ -188,13 +180,8 @@ export default function Quiz({ grade, onComplete }: Props) {
       setSelectedOptions([]);
       setIsSubmitted(false);
     } else {
-      onComplete(scoreRef.current, gradeQuestions.length);
+      completeQuiz(correctCountRef.current, gradeQuestions.length);
     }
-  };
-
-  const handleSkip = () => {
-    if (isSubmitted) return;
-    handleNext();
   };
 
   const handleSubmit = () => {
@@ -207,7 +194,7 @@ export default function Quiz({ grade, onComplete }: Props) {
       selectedOptions.every(opt => currentQuestion.answer.includes(opt));
       
     if (isCorrect) {
-      setScore(prev => prev + 1);
+      setCorrectCount(prev => prev + 1);
       playCorrectSound(); // 播放答对音效
       timeoutRef.current = setTimeout(() => {
         handleNext();
@@ -235,7 +222,8 @@ export default function Quiz({ grade, onComplete }: Props) {
       <div className="mb-6 flex justify-between items-center text-sm text-stone-500 font-medium bg-white p-4 rounded-2xl shadow-sm border border-stone-200">
         <div className="flex items-center gap-4">
           <span className="bg-stone-100 px-3 py-1 rounded-lg">进度: {currentIndex + 1} / {gradeQuestions.length}</span>
-          <span className="bg-red-50 text-red-700 px-3 py-1 rounded-lg">得分: {score}</span>
+          <span className="bg-emerald-50 text-emerald-700 px-3 py-1 rounded-lg">答对: {correctCount}</span>
+          <span className="bg-red-50 text-red-700 px-3 py-1 rounded-lg">当前得分: {currentScore} / 100</span>
         </div>
         <div className={`flex items-center gap-2 px-3 py-1 rounded-lg font-bold ${timeLeft < 60 ? 'bg-red-100 text-red-600 animate-pulse' : 'bg-stone-100 text-stone-700'}`}>
           <Timer className="w-4 h-4" />
@@ -261,7 +249,7 @@ export default function Quiz({ grade, onComplete }: Props) {
         >
           <div className="flex items-start gap-3 mb-6">
             <span className="shrink-0 bg-red-100 text-red-800 text-xs font-bold px-2 py-1 rounded">
-              {isMultiple ? '多选题' : '单选题'}
+              {isJudge ? '判断题' : isMultiple ? '多选题' : '单选题'}
             </span>
             <h2 className="text-xl font-semibold leading-snug">
               {currentQuestion.question}
@@ -317,27 +305,22 @@ export default function Quiz({ grade, onComplete }: Props) {
                 {!isCorrect && (
                   <p className="text-sm mt-1">正确答案是：{currentQuestion.answer.join('、')}</p>
                 )}
+                {currentQuestion.explanation && (
+                  <p className="text-sm mt-1">说明：{currentQuestion.explanation}</p>
+                )}
               </div>
             </motion.div>
           )}
 
           <div className="flex justify-end gap-3">
             {!isSubmitted && (
-              <>
-                <button
-                  onClick={handleSkip}
-                  className="bg-stone-100 hover:bg-stone-200 text-stone-600 px-6 py-3 rounded-xl font-medium transition-colors"
-                >
-                  跳过此题
-                </button>
-                <button
-                  onClick={handleSubmit}
-                  disabled={selectedOptions.length === 0}
-                  className="bg-red-600 hover:bg-red-700 disabled:bg-stone-300 disabled:cursor-not-allowed text-white px-8 py-3 rounded-xl font-medium transition-colors"
-                >
-                  提交答案
-                </button>
-              </>
+              <button
+                onClick={handleSubmit}
+                disabled={selectedOptions.length === 0}
+                className="bg-red-600 hover:bg-red-700 disabled:bg-stone-300 disabled:cursor-not-allowed text-white px-8 py-3 rounded-xl font-medium transition-colors"
+              >
+                {answeredCount === gradeQuestions.length ? '提交并查看成绩' : '提交答案'}
+              </button>
             )}
           </div>
         </motion.div>

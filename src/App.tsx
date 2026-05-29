@@ -8,6 +8,7 @@ function App() {
   const [currentScreen, setCurrentScreen] = useState<'selection' | 'quiz' | 'result'>('selection');
   const [selectedGrade, setSelectedGrade] = useState<GradeLevel | null>(null);
   const [score, setScore] = useState(0);
+  const [correctCount, setCorrectCount] = useState(0);
   const [totalQuestions, setTotalQuestions] = useState(0);
 
   const handleGradeSelect = (grade: GradeLevel) => {
@@ -15,7 +16,8 @@ function App() {
     setCurrentScreen('quiz');
   };
 
-  const handleQuizComplete = (finalScore: number, total: number) => {
+  const handleQuizComplete = (finalCorrectCount: number, total: number, finalScore: number) => {
+    setCorrectCount(finalCorrectCount);
     setScore(finalScore);
     setTotalQuestions(total);
     setCurrentScreen('result');
@@ -25,6 +27,7 @@ function App() {
     setCurrentScreen('selection');
     setSelectedGrade(null);
     setScore(0);
+    setCorrectCount(0);
     setTotalQuestions(0);
   };
 
@@ -51,7 +54,7 @@ function App() {
           <Quiz grade={selectedGrade} onComplete={handleQuizComplete} />
         )}
         {currentScreen === 'result' && (
-          <Result score={score} total={totalQuestions} onRestart={handleRestart} />
+          <Result score={score} correctCount={correctCount} total={totalQuestions} onRestart={handleRestart} />
         )}
       </main>
     </div>

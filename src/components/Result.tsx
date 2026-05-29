@@ -4,17 +4,18 @@ import { Trophy, RotateCcw, Home } from 'lucide-react';
 
 interface Props {
   score: number;
+  correctCount: number;
   total: number;
   onRestart: () => void;
 }
 
-export default function Result({ score, total, onRestart }: Props) {
-  const percentage = Math.round((score / total) * 100);
+export default function Result({ score, correctCount, total, onRestart }: Props) {
+  const percentage = total === 0 ? 0 : Math.round((correctCount / total) * 100);
   
   let message = '';
-  if (percentage === 100) message = '太棒了！满分通过！';
-  else if (percentage >= 80) message = '表现优秀！继续保持！';
-  else if (percentage >= 60) message = '及格了，还有提升空间！';
+  if (score === 100) message = '太棒了！满分通过！';
+  else if (score >= 80) message = '表现优秀！继续保持！';
+  else if (score >= 60) message = '及格了，还有提升空间！';
   else message = '还需努力，多加练习哦！';
 
   return (
@@ -38,14 +39,16 @@ export default function Result({ score, total, onRestart }: Props) {
         <div className="w-px h-12 bg-stone-200"></div>
         <div>
           <p className="text-sm text-stone-500 mb-1">答对题数</p>
-          <p className="text-3xl font-bold text-emerald-600">{score}</p>
+          <p className="text-3xl font-bold text-emerald-600">{correctCount}</p>
         </div>
         <div className="w-px h-12 bg-stone-200"></div>
         <div>
-          <p className="text-sm text-stone-500 mb-1">正确率</p>
-          <p className="text-3xl font-bold text-red-600">{percentage}%</p>
+          <p className="text-sm text-stone-500 mb-1">最终得分</p>
+          <p className="text-3xl font-bold text-red-600">{score}</p>
         </div>
       </div>
+
+      <p className="text-sm text-stone-500 mb-8">正确率：{percentage}%</p>
 
       <div className="flex flex-col sm:flex-row gap-4 justify-center">
         <button
